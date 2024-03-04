@@ -1,0 +1,1001 @@
+Education,Experience,Location,Job_Title,Age,Gender,Salary,Age,before date,after date, day deff.,month diff.,greter than using ,years diff.,vlookup,hlookup,hours,minutes
+High School,8,Urban,Manager,63,Male,84620.05366,elder,01-01-2024,21-02-2026,782,25,FALSE,2,PhD,Location,18768,1126080
+PhD,11,Suburban,Director,59,Male,142591.2559,elder,02-02-2024,22-02-2026,783,25,TRUE,2,Bachelor,Urban,18792,1127520
+Bachelor,28,Suburban,Manager,61,Female,97800.2554,elder,05-03-2024,23-02-2026,784,25,TRUE,2,PhD,Suburban,18816,1128960
+High School,29,Rural,Director,45,Male,96834.67128,senior,06-04-2024,24-02-2026,785,25,TRUE,2,Bachelor,Suburban,18840,1130400
+PhD,25,Urban,Analyst,26,Female,132157.7862,young,08-05-2024,25-02-2026,786,25,TRUE,2,Master,Rural,18864,1131840
+PhD,19,Rural,Director,27,Female,156312.9362,young,09-06-2024,26-02-2026,787,25,TRUE,2,High School,Urban,18888,1133280
+PhD,4,Rural,Director,60,Female,130567.6495,elder,11-07-2024,27-02-2026,788,25,FALSE,2,PhD,Rural,18912,1134720
+PhD,13,Suburban,Director,49,Female,148707.7408,senior,12-08-2024,28-02-2026,789,25,TRUE,2,Master,Rural,18936,1136160
+Bachelor,20,Urban,Engineer,25,Female,95945.27543,young,13-09-2024,01-03-2026,790,26,TRUE,2,High School,Suburban,18960,1137600
+PhD,14,Urban,Analyst,58,Female,133339.3897,elder,15-10-2024,02-03-2026,791,26,TRUE,2,High School,Urban,18984,1139040
+Bachelor,23,Rural,Manager,23,Female,101164.0924,young,16-11-2024,03-03-2026,792,26,TRUE,2,High School,Urban,19008,1140480
+Master,1,Urban,Director,27,Female,124251.9871,young,18-12-2024,04-03-2026,793,26,FALSE,2,Master,Rural,19032,1141920
+High School,11,Urban,Manager,63,Male,55066.11435,elder,19-01-2025,05-03-2026,794,26,TRUE,2,Bachelor,Urban,19056,1143360
+PhD,4,Rural,Manager,43,Male,124972.5088,senior,20-02-2025,06-03-2026,795,26,FALSE,2,Master,Urban,19080,1144800
+Master,7,Suburban,Director,44,Female,126139.1367,senior,24-03-2025,07-03-2026,796,26,FALSE,2,PhD,Rural,19104,1146240
+High School,28,Suburban,Engineer,49,Male,81007.19945,senior,25-04-2025,08-03-2026,797,26,TRUE,2,PhD,Suburban,19128,1147680
+High School,4,Suburban,Analyst,37,Male,60693.92471,senior,27-05-2025,09-03-2026,798,26,FALSE,2,Master,Suburban,19152,1149120
+High School,26,Rural,Director,63,Male,103386.0703,elder,28-06-2025,10-03-2026,799,26,TRUE,2,High School,Suburban,19176,1150560
+Master,7,Urban,Director,53,Female,140042.1389,elder,30-07-2025,11-03-2026,800,26,FALSE,2,Bachelor,Rural,19200,1152000
+Bachelor,20,Rural,Analyst,34,Male,86048.11608,adult,31-08-2025,12-03-2026,801,26,TRUE,2,Bachelor,Urban,19224,1153440
+Master,3,Rural,Engineer,62,Female,73861.99295,elder,02-10-2025,13-03-2026,802,26,FALSE,2,Bachelor,Rural,19248,1154880
+PhD,19,Suburban,Analyst,62,Male,106145.0055,elder,03-11-2025,14-03-2026,803,26,TRUE,2,Bachelor,Rural,19272,1156320
+PhD,19,Urban,Director,36,Female,142981.5905,senior,05-12-2025,15-03-2026,804,26,TRUE,2,High School,Suburban,19296,1157760
+Master,7,Suburban,Analyst,21,Female,96620.92939,young,06-01-2026,16-03-2026,805,26,FALSE,2,Bachelor,Urban,19320,1159200
+High School,21,Urban,Manager,62,Female,89426.94712,elder,07-02-2026,17-03-2026,806,26,TRUE,2,High School,Suburban,19344,1160640
+Bachelor,12,Urban,Manager,20,Male,104762.3985,young,11-03-2026,18-03-2026,807,26,TRUE,2,PhD,Urban,19368,1162080
+Bachelor,23,Suburban,Manager,35,Female,101747.5408,senior,12-04-2026,19-03-2026,808,26,TRUE,2,High School,Urban,19392,1163520
+Bachelor,1,Suburban,Engineer,36,Male,68635.08828,senior,14-05-2026,20-03-2026,809,26,FALSE,2,PhD,Suburban,19416,1164960
+Bachelor,5,Rural,Manager,28,Male,90550.47942,adult,15-06-2026,21-03-2026,810,26,FALSE,2,Bachelor,Suburban,19440,1166400
+High School,14,Urban,Analyst,61,Female,75559.24411,elder,17-07-2026,22-03-2026,811,26,TRUE,2,Master,Rural,19464,1167840
+Bachelor,10,Urban,Engineer,40,Female,87433.49865,senior,18-08-2026,23-03-2026,812,26,FALSE,2,PhD,Urban,19488,1169280
+High School,3,Urban,Analyst,63,Female,57615.23342,elder,19-09-2026,24-03-2026,813,26,FALSE,2,PhD,Urban,19512,1170720
+PhD,2,Urban,Engineer,45,Male,126043.1434,senior,21-10-2026,25-03-2026,814,26,FALSE,2,High School,Urban,19536,1172160
+High School,13,Urban,Analyst,20,Male,73043.43575,young,22-11-2026,26-03-2026,815,26,TRUE,2,Master,Urban,19560,1173600
+PhD,16,Rural,Director,59,Male,134560.193,elder,24-12-2026,27-03-2026,816,26,TRUE,2,PhD,Urban,19584,1175040
+Bachelor,23,Urban,Engineer,22,Female,95804.26144,young,25-01-2027,28-03-2026,817,26,TRUE,2,High School,Rural,19608,1176480
+Master,2,Rural,Director,26,Female,99694.53954,young,26-02-2027,29-03-2026,818,26,FALSE,2,Bachelor,Urban,19632,1177920
+PhD,24,Suburban,Director,23,Female,153930.9339,young,30-03-2027,30-03-2026,819,26,TRUE,2,PhD,Rural,19656,1179360
+PhD,13,Rural,Director,50,Male,151123.3359,FALSE,01-05-2027,31-03-2026,820,26,TRUE,2,Bachelor,Suburban,19680,1180800
+High School,6,Rural,Director,33,Female,81462.71867,adult,02-06-2027,01-04-2026,821,27,FALSE,2,PhD,Rural,19704,1182240
+Master,7,Rural,Director,40,Male,106019.0204,senior,04-07-2027,02-04-2026,822,27,FALSE,2,PhD,Rural,19728,1183680
+PhD,2,Suburban,Director,31,Female,142122.6673,adult,05-08-2027,03-04-2026,823,27,FALSE,2,Master,Rural,19752,1185120
+High School,11,Urban,Analyst,31,Male,66858.43105,adult,06-09-2027,04-04-2026,824,27,TRUE,2,PhD,Suburban,19776,1186560
+Bachelor,7,Rural,Manager,25,Female,82060.73293,young,08-10-2027,05-04-2026,825,27,FALSE,2,High School,Urban,19800,1188000
+PhD,7,Suburban,Engineer,36,Female,107935.4034,senior,09-11-2027,06-04-2026,826,27,FALSE,2,Bachelor,Rural,19824,1189440
+Bachelor,7,Rural,Analyst,33,Male,70251.76628,adult,11-12-2027,07-04-2026,827,27,FALSE,2,Bachelor,Suburban,19848,1190880
+PhD,7,Rural,Analyst,28,Female,118799.4401,adult,12-01-2028,08-04-2026,828,27,FALSE,2,Bachelor,Rural,19872,1192320
+PhD,12,Suburban,Analyst,47,Female,100369.0235,senior,13-02-2028,09-04-2026,829,27,TRUE,2,PhD,Rural,19896,1193760
+Master,19,Rural,Analyst,26,Male,100038.768,young,16-03-2028,10-04-2026,830,27,TRUE,2,High School,Suburban,19920,1195200
+PhD,22,Rural,Manager,64,Male,164542.837,elder,17-04-2028,11-04-2026,831,27,TRUE,2,PhD,Rural,19944,1196640
+High School,19,Urban,Manager,62,Male,95726.36719,elder,19-05-2028,12-04-2026,832,27,TRUE,2,Master,Rural,19968,1198080
+Bachelor,19,Suburban,Engineer,24,Male,96598.32495,young,20-06-2028,13-04-2026,833,27,TRUE,2,High School,Urban,19992,1199520
+Bachelor,20,Rural,Engineer,60,Female,82628.1483,elder,22-07-2028,14-04-2026,834,27,TRUE,2,PhD,Suburban,20016,1200960
+Bachelor,3,Suburban,Analyst,61,Female,66216.70162,elder,23-08-2028,15-04-2026,835,27,FALSE,2,PhD,Rural,20040,1202400
+PhD,13,Suburban,Engineer,35,Female,127167.116,senior,24-09-2028,16-04-2026,836,27,TRUE,2,Master,Suburban,20064,1203840
+High School,10,Urban,Director,20,Female,106028.6363,young,26-10-2028,17-04-2026,837,27,FALSE,2,PhD,Suburban,20088,1205280
+PhD,20,Urban,Analyst,59,Male,139655.8919,elder,27-11-2028,18-04-2026,838,27,TRUE,2,Master,Urban,20112,1206720
+Master,9,Urban,Engineer,57,Male,100278.416,elder,29-12-2028,19-04-2026,839,27,FALSE,2,PhD,Urban,20136,1208160
+High School,6,Rural,Engineer,26,Female,67767.86962,young,30-01-2029,20-04-2026,840,27,FALSE,2,High School,Urban,20160,1209600
+PhD,21,Rural,Director,49,Male,148074.0579,senior,03-03-2029,21-04-2026,841,27,TRUE,2,Master,Rural,20184,1211040
+PhD,22,Rural,Analyst,45,Female,143973.4648,senior,04-04-2029,22-04-2026,842,27,TRUE,2,High School,Rural,20208,1212480
+Master,12,Rural,Manager,32,Female,106333.9698,adult,06-05-2029,23-04-2026,843,27,TRUE,2,High School,Rural,20232,1213920
+PhD,2,Rural,Analyst,20,Female,96967.34243,young,07-06-2029,24-04-2026,844,27,FALSE,2,High School,Rural,20256,1215360
+Master,12,Rural,Manager,48,Female,113746.2958,senior,09-07-2029,25-04-2026,845,27,TRUE,2,Bachelor,Rural,20280,1216800
+PhD,16,Suburban,Engineer,27,Female,140823.2698,young,10-08-2029,26-04-2026,846,27,TRUE,2,Bachelor,Rural,20304,1218240
+High School,13,Suburban,Manager,21,Female,88374.44797,young,11-09-2029,27-04-2026,847,27,TRUE,2,Master,Suburban,20328,1219680
+Master,16,Urban,Analyst,64,Female,112591.9177,elder,13-10-2029,28-04-2026,848,27,TRUE,2,High School,Suburban,20352,1221120
+High School,13,Rural,Engineer,27,Male,53119.03312,young,14-11-2029,29-04-2026,849,27,TRUE,2,High School,Urban,20376,1222560
+High School,22,Suburban,Manager,60,Female,81946.59278,elder,16-12-2029,30-04-2026,850,27,TRUE,2,Bachelor,Rural,20400,1224000
+High School,25,Urban,Manager,46,Female,74817.18132,senior,17-01-2030,01-05-2026,851,28,TRUE,2,PhD,Suburban,20424,1225440
+Bachelor,19,Urban,Analyst,60,Male,84868.78462,elder,18-02-2030,02-05-2026,852,28,TRUE,2,High School,Urban,20448,1226880
+Bachelor,26,Urban,Engineer,42,Male,104215.4319,senior,22-03-2030,03-05-2026,853,28,TRUE,2,Bachelor,Urban,20472,1228320
+Master,14,Urban,Engineer,34,Male,117890.0214,adult,23-04-2030,04-05-2026,854,28,TRUE,2,Master,Urban,20496,1229760
+High School,29,Suburban,Manager,51,Male,90605.45679,elder,25-05-2030,05-05-2026,855,28,TRUE,2,Master,Urban,20520,1231200
+High School,13,Suburban,Manager,41,Female,77430.20945,senior,26-06-2030,06-05-2026,856,28,TRUE,2,PhD,Suburban,20544,1232640
+Bachelor,10,Suburban,Manager,27,Male,91038.14555,young,28-07-2030,07-05-2026,857,28,FALSE,2,High School,Suburban,20568,1234080
+PhD,22,Urban,Director,56,Male,169510.253,elder,29-08-2030,08-05-2026,858,28,TRUE,2,Bachelor,Suburban,20592,1235520
+High School,7,Urban,Engineer,36,Male,58008.87062,senior,30-09-2030,09-05-2026,859,28,FALSE,2,Bachelor,Urban,20616,1236960
+Bachelor,5,Rural,Manager,26,Female,93375.47914,young,01-11-2030,10-05-2026,860,28,FALSE,2,PhD,Urban,20640,1238400
+Master,17,Rural,Manager,62,Female,136608.8081,elder,03-12-2030,11-05-2026,861,28,TRUE,2,Bachelor,Rural,20664,1239840
+Master,9,Urban,Engineer,40,Female,113727.8966,senior,04-01-2031,12-05-2026,862,28,FALSE,2,Bachelor,Rural,20688,1241280
+PhD,27,Suburban,Director,58,Male,156729.0839,elder,05-02-2031,13-05-2026,863,28,TRUE,2,PhD,Urban,20712,1242720
+High School,6,Urban,Engineer,24,Female,60637.29856,young,09-03-2031,14-05-2026,864,28,FALSE,2,Master,Suburban,20736,1244160
+Bachelor,16,Rural,Director,36,Female,118098.3722,senior,10-04-2031,15-05-2026,865,28,TRUE,2,PhD,Urban,20760,1245600
+Bachelor,6,Rural,Analyst,54,Male,59734.10574,elder,12-05-2031,16-05-2026,866,28,FALSE,2,PhD,Rural,20784,1247040
+PhD,6,Suburban,Engineer,34,Male,111461.9558,adult,13-06-2031,17-05-2026,867,28,FALSE,2,Master,Rural,20808,1248480
+Bachelor,28,Urban,Engineer,59,Male,96355.51546,elder,15-07-2031,18-05-2026,868,28,TRUE,2,Master,Suburban,20832,1249920
+Bachelor,18,Rural,Analyst,35,Male,70214.86159,senior,16-08-2031,19-05-2026,869,28,TRUE,2,PhD,Urban,20856,1251360
+PhD,1,Suburban,Engineer,44,Male,105551.8368,senior,17-09-2031,20-05-2026,870,28,FALSE,2,High School,Rural,20880,1252800
+Master,17,Rural,Analyst,34,Male,109899.0494,adult,19-10-2031,21-05-2026,871,28,TRUE,2,Master,Suburban,20904,1254240
+PhD,17,Suburban,Director,30,Male,163022.8256,adult,20-11-2031,22-05-2026,872,28,TRUE,2,PhD,Rural,20928,1255680
+PhD,1,Rural,Engineer,24,Male,104029.2693,young,22-12-2031,23-05-2026,873,28,FALSE,2,Bachelor,Suburban,20952,1257120
+Master,11,Rural,Analyst,40,Female,98073.34046,senior,23-01-2032,24-05-2026,874,28,TRUE,2,High School,Rural,20976,1258560
+Master,13,Urban,Manager,61,Female,130591.5668,elder,24-02-2032,25-05-2026,875,28,TRUE,2,Bachelor,Rural,21000,1260000
+PhD,1,Suburban,Director,60,Male,137005.642,elder,27-03-2032,26-05-2026,876,28,FALSE,2,Master,Urban,21024,1261440
+High School,27,Suburban,Director,31,Male,92450.57242,adult,28-04-2032,27-05-2026,877,28,TRUE,2,High School,Suburban,21048,1262880
+Master,8,Rural,Manager,49,Female,93295.98265,senior,30-05-2032,28-05-2026,878,28,FALSE,2,PhD,Suburban,21072,1264320
+PhD,23,Urban,Manager,23,Male,163104.2755,young,01-07-2032,29-05-2026,879,28,TRUE,2,High School,Rural,21096,1265760
+Bachelor,20,Rural,Analyst,64,Male,89961.79412,elder,02-08-2032,30-05-2026,880,28,TRUE,2,Master,Urban,21120,1267200
+High School,6,Rural,Manager,46,Male,71769.55893,senior,03-09-2032,31-05-2026,881,28,FALSE,2,High School,Rural,21144,1268640
+Bachelor,5,Rural,Engineer,47,Male,63923.53099,senior,05-10-2032,01-06-2026,882,29,FALSE,2,PhD,Rural,21168,1270080
+Master,20,Suburban,Analyst,22,Female,112349.7719,young,06-11-2032,02-06-2026,883,29,TRUE,2,PhD,Rural,21192,1271520
+High School,5,Urban,Director,22,Male,91289.99587,young,08-12-2032,03-06-2026,884,29,FALSE,2,High School,Suburban,21216,1272960
+PhD,6,Rural,Engineer,43,Female,119140.3384,senior,09-01-2033,04-06-2026,885,29,FALSE,2,PhD,Urban,21240,1274400
+High School,29,Rural,Engineer,48,Male,71549.76783,senior,10-02-2033,05-06-2026,886,29,TRUE,2,High School,Rural,21264,1275840
+Master,13,Rural,Director,38,Female,133122.6051,senior,14-03-2033,06-06-2026,887,29,TRUE,2,High School,Rural,21288,1277280
+High School,27,Suburban,Engineer,21,Female,66723.68052,young,15-04-2033,07-06-2026,888,29,TRUE,2,High School,Rural,21312,1278720
+PhD,18,Rural,Director,24,Male,157287.4192,young,17-05-2033,08-06-2026,889,29,TRUE,2,High School,Suburban,21336,1280160
+PhD,20,Suburban,Director,56,Female,165810.5594,elder,18-06-2033,09-06-2026,890,29,TRUE,2,Master,Rural,21360,1281600
+High School,13,Suburban,Director,37,Female,103723.3032,senior,20-07-2033,10-06-2026,891,29,TRUE,2,PhD,Suburban,21384,1283040
+PhD,7,Suburban,Director,44,Female,138575.0781,senior,21-08-2033,11-06-2026,892,29,FALSE,2,High School,Suburban,21408,1284480
+High School,8,Suburban,Analyst,45,Female,48005.69983,senior,22-09-2033,12-06-2026,893,29,FALSE,2,PhD,Suburban,21432,1285920
+High School,21,Suburban,Engineer,63,Female,83938.80362,elder,24-10-2033,13-06-2026,894,29,TRUE,2,Master,Suburban,21456,1287360
+High School,17,Urban,Manager,32,Male,80007.84721,adult,25-11-2033,14-06-2026,895,29,TRUE,2,PhD,Suburban,21480,1288800
+High School,1,Suburban,Analyst,54,Male,51439.95511,elder,27-12-2033,15-06-2026,896,29,FALSE,2,PhD,Urban,21504,1290240
+Master,24,Suburban,Manager,41,Female,125825.3778,senior,28-01-2034,16-06-2026,897,29,TRUE,2,Bachelor,Suburban,21528,1291680
+PhD,16,Rural,Analyst,29,Female,111979.2803,adult,01-03-2034,17-06-2026,898,29,TRUE,2,Bachelor,Suburban,21552,1293120
+High School,11,Urban,Engineer,56,Female,74209.99466,elder,02-04-2034,18-06-2026,899,29,TRUE,2,Bachelor,Rural,21576,1294560
+PhD,29,Urban,Director,63,Male,155079.8408,elder,04-05-2034,19-06-2026,900,29,TRUE,2,High School,Urban,21600,1296000
+Master,4,Rural,Manager,61,Male,109922.0568,elder,05-06-2034,20-06-2026,901,29,FALSE,2,Bachelor,Urban,21624,1297440
+PhD,4,Suburban,Analyst,26,Male,104330.6891,young,07-07-2034,21-06-2026,902,29,FALSE,2,Bachelor,Rural,21648,1298880
+PhD,17,Urban,Engineer,37,Female,119682.6865,senior,08-08-2034,22-06-2026,903,29,TRUE,2,Bachelor,Suburban,21672,1300320
+Bachelor,17,Suburban,Engineer,51,Female,91498.92541,elder,09-09-2034,23-06-2026,904,29,TRUE,2,PhD,Urban,21696,1301760
+Bachelor,10,Rural,Analyst,64,Male,79316.33853,elder,11-10-2034,24-06-2026,905,29,FALSE,2,High School,Suburban,21720,1303200
+Bachelor,21,Urban,Director,26,Male,126769.346,young,12-11-2034,25-06-2026,906,29,TRUE,2,PhD,Rural,21744,1304640
+High School,21,Suburban,Analyst,36,Female,79183.53731,senior,14-12-2034,26-06-2026,907,29,TRUE,2,Bachelor,Urban,21768,1306080
+Bachelor,6,Urban,Analyst,50,Male,57463.596,FALSE,15-01-2035,27-06-2026,908,29,FALSE,2,Master,Suburban,21792,1307520
+Bachelor,25,Urban,Analyst,48,Male,89948.55569,senior,16-02-2035,28-06-2026,909,29,TRUE,2,High School,Urban,21816,1308960
+Bachelor,25,Suburban,Director,31,Male,121066.5229,adult,20-03-2035,29-06-2026,910,29,TRUE,2,Bachelor,Urban,21840,1310400
+PhD,17,Suburban,Manager,52,Female,157190.0328,elder,21-04-2035,30-06-2026,911,29,TRUE,2,Master,Suburban,21864,1311840
+High School,18,Urban,Analyst,58,Male,80837.44494,elder,23-05-2035,01-07-2026,912,30,TRUE,2,High School,Suburban,21888,1313280
+PhD,22,Rural,Engineer,45,Male,151013.4005,senior,24-06-2035,02-07-2026,913,30,TRUE,2,Master,Urban,21912,1314720
+Bachelor,26,Urban,Manager,58,Female,110750.6058,elder,26-07-2035,03-07-2026,914,30,TRUE,2,High School,Rural,21936,1316160
+Master,10,Rural,Engineer,49,Male,102744.17,senior,27-08-2035,04-07-2026,915,30,FALSE,2,Bachelor,Urban,21960,1317600
+High School,13,Urban,Engineer,22,Female,62000.29192,young,28-09-2035,05-07-2026,916,30,TRUE,2,PhD,Rural,21984,1319040
+Bachelor,16,Suburban,Analyst,39,Female,81956.4778,senior,30-10-2035,06-07-2026,917,30,TRUE,2,Master,Urban,22008,1320480
+Master,7,Rural,Manager,32,Female,99647.04282,adult,01-12-2035,07-07-2026,918,30,FALSE,2,Master,Suburban,22032,1321920
+High School,15,Rural,Analyst,38,Female,53660.11341,senior,02-01-2036,08-07-2026,919,30,TRUE,2,Bachelor,Rural,22056,1323360
+Master,2,Urban,Engineer,20,Male,98065.50879,young,03-02-2036,09-07-2026,920,30,FALSE,2,High School,Rural,22080,1324800
+High School,5,Urban,Analyst,61,Male,60027.1754,elder,06-03-2036,10-07-2026,921,30,FALSE,2,PhD,Urban,22104,1326240
+Bachelor,17,Rural,Director,42,Male,107222.1266,senior,07-04-2036,11-07-2026,922,30,TRUE,2,Bachelor,Urban,22128,1327680
+PhD,5,Suburban,Director,37,Female,145434.5344,senior,09-05-2036,12-07-2026,923,30,FALSE,2,Bachelor,Rural,22152,1329120
+Master,8,Rural,Analyst,62,Male,94399.88467,elder,10-06-2036,13-07-2026,924,30,FALSE,2,PhD,Suburban,22176,1330560
+Master,24,Rural,Analyst,24,Female,105559.5437,young,12-07-2036,14-07-2026,925,30,TRUE,2,High School,Rural,22200,1332000
+Bachelor,28,Suburban,Analyst,24,Male,92774.21458,young,13-08-2036,15-07-2026,926,30,TRUE,2,Master,Rural,22224,1333440
+High School,15,Suburban,Analyst,38,Female,61928.6828,senior,14-09-2036,16-07-2026,927,30,TRUE,2,Master,Suburban,22248,1334880
+PhD,8,Urban,Analyst,25,Female,118509.6286,young,16-10-2036,17-07-2026,928,30,FALSE,2,PhD,Suburban,22272,1336320
+Bachelor,23,Urban,Director,34,Female,127909.7106,adult,17-11-2036,18-07-2026,929,30,TRUE,2,Master,Urban,22296,1337760
+Bachelor,3,Urban,Manager,30,Male,101655.2519,adult,19-12-2036,19-07-2026,930,30,FALSE,2,PhD,Urban,22320,1339200
+PhD,23,Suburban,Analyst,49,Female,145740.4454,senior,20-01-2037,20-07-2026,931,30,TRUE,2,PhD,Urban,22344,1340640
+High School,17,Rural,Manager,39,Female,69022.9724,senior,21-02-2037,21-07-2026,932,30,TRUE,2,PhD,Suburban,22368,1342080
+Master,28,Suburban,Analyst,54,Male,122693.7223,elder,25-03-2037,22-07-2026,933,30,TRUE,2,Master,Rural,22392,1343520
+Master,16,Urban,Manager,23,Female,112053.2036,young,26-04-2037,23-07-2026,934,30,TRUE,2,Bachelor,Suburban,22416,1344960
+PhD,16,Rural,Director,28,Female,149731.7472,adult,28-05-2037,24-07-2026,935,30,TRUE,2,Master,Urban,22440,1346400
+Master,19,Urban,Engineer,46,Male,129826.7228,senior,29-06-2037,25-07-2026,936,30,TRUE,2,Master,Rural,22464,1347840
+PhD,12,Rural,Manager,38,Female,130504.105,senior,31-07-2037,26-07-2026,937,30,TRUE,2,PhD,Urban,22488,1349280
+PhD,24,Suburban,Director,24,Male,169726.3605,young,01-09-2037,27-07-2026,938,30,TRUE,2,Master,Rural,22512,1350720
+PhD,15,Urban,Manager,27,Female,133614.3213,young,03-10-2037,28-07-2026,939,30,TRUE,2,PhD,Suburban,22536,1352160
+Master,8,Suburban,Director,62,Male,114113.5472,elder,04-11-2037,29-07-2026,940,30,FALSE,2,PhD,Urban,22560,1353600
+Bachelor,27,Suburban,Engineer,49,Female,100641.9016,senior,06-12-2037,30-07-2026,941,30,TRUE,2,Master,Suburban,22584,1355040
+Master,3,Suburban,Director,55,Male,128222.1035,elder,07-01-2038,31-07-2026,942,30,FALSE,2,Master,Suburban,22608,1356480
+Master,23,Rural,Analyst,35,Female,103825.7054,senior,08-02-2038,01-08-2026,943,31,TRUE,2,PhD,Suburban,22632,1357920
+PhD,18,Suburban,Analyst,23,Female,123464.469,young,12-03-2038,02-08-2026,944,31,TRUE,2,High School,Rural,22656,1359360
+Master,4,Suburban,Manager,23,Female,99083.71642,young,13-04-2038,03-08-2026,945,31,FALSE,2,Bachelor,Suburban,22680,1360800
+PhD,8,Rural,Analyst,26,Male,115028.8104,young,15-05-2038,04-08-2026,946,31,FALSE,2,Master,Suburban,22704,1362240
+PhD,14,Suburban,Analyst,22,Female,136466.9514,young,16-06-2038,05-08-2026,947,31,TRUE,2,PhD,Rural,22728,1363680
+Master,28,Suburban,Engineer,57,Male,130006.8011,elder,18-07-2038,06-08-2026,948,31,TRUE,2,Master,Suburban,22752,1365120
+Master,17,Suburban,Analyst,44,Male,113966.5065,senior,19-08-2038,07-08-2026,949,31,TRUE,2,Bachelor,Suburban,22776,1366560
+PhD,6,Rural,Analyst,55,Male,108930.2553,elder,20-09-2038,08-08-2026,950,31,FALSE,2,Master,Suburban,22800,1368000
+High School,5,Rural,Manager,23,Female,59366.90641,young,22-10-2038,09-08-2026,951,31,FALSE,2,Bachelor,Rural,22824,1369440
+Bachelor,22,Urban,Analyst,27,Female,103772.4592,young,23-11-2038,10-08-2026,952,31,TRUE,2,High School,Rural,22848,1370880
+Master,14,Suburban,Analyst,47,Female,103680.8892,senior,25-12-2038,11-08-2026,953,31,TRUE,2,Master,Urban,22872,1372320
+PhD,6,Rural,Director,22,Male,134263.9176,young,26-01-2039,12-08-2026,954,31,FALSE,2,Master,Suburban,22896,1373760
+Master,20,Suburban,Director,27,Female,143982.4062,young,27-02-2039,13-08-2026,955,31,TRUE,2,PhD,Rural,22920,1375200
+Bachelor,12,Rural,Manager,30,Male,90022.12548,adult,31-03-2039,14-08-2026,956,31,TRUE,2,High School,Suburban,22944,1376640
+Master,9,Rural,Manager,25,Male,100622.2374,young,02-05-2039,15-08-2026,957,31,FALSE,2,PhD,Rural,22968,1378080
+Bachelor,1,Rural,Manager,60,Female,90091.88495,elder,03-06-2039,16-08-2026,958,31,FALSE,2,Master,Rural,22992,1379520
+High School,18,Urban,Analyst,42,Male,73807.1989,senior,05-07-2039,17-08-2026,959,31,TRUE,2,PhD,Rural,23016,1380960
+Master,6,Suburban,Analyst,63,Male,85629.70656,elder,06-08-2039,18-08-2026,960,31,FALSE,2,High School,Urban,23040,1382400
+Master,29,Rural,Analyst,21,Male,102870.9411,young,07-09-2039,19-08-2026,961,31,TRUE,2,High School,Suburban,23064,1383840
+PhD,5,Suburban,Analyst,26,Female,115954.1188,young,09-10-2039,20-08-2026,962,31,FALSE,2,Master,Rural,23088,1385280
+High School,2,Rural,Analyst,48,Male,70374.09661,senior,10-11-2039,21-08-2026,963,31,FALSE,2,High School,Suburban,23112,1386720
+PhD,6,Suburban,Analyst,25,Female,112071.794,young,12-12-2039,22-08-2026,964,31,FALSE,2,Master,Rural,23136,1388160
+Master,17,Suburban,Director,60,Male,128637.2614,elder,13-01-2040,23-08-2026,965,31,TRUE,2,PhD,Suburban,23160,1389600
+PhD,7,Rural,Manager,30,Male,142237.712,adult,14-02-2040,24-08-2026,966,31,FALSE,2,Master,Suburban,23184,1391040
+High School,25,Suburban,Manager,27,Female,89427.188,young,17-03-2040,25-08-2026,967,31,TRUE,2,Master,Rural,23208,1392480
+High School,9,Urban,Analyst,49,Male,49515.33137,senior,18-04-2040,26-08-2026,968,31,FALSE,2,PhD,Suburban,23232,1393920
+Master,23,Urban,Engineer,56,Male,107272.0355,elder,20-05-2040,27-08-2026,969,31,TRUE,2,High School,Urban,23256,1395360
+High School,20,Suburban,Director,38,Female,107266.6397,senior,21-06-2040,28-08-2026,970,31,TRUE,2,High School,Urban,23280,1396800
+Master,5,Suburban,Manager,22,Female,116663.5454,young,23-07-2040,29-08-2026,971,31,FALSE,2,High School,Suburban,23304,1398240
+PhD,21,Rural,Director,61,Male,159261.2571,elder,24-08-2040,30-08-2026,972,31,TRUE,2,Bachelor,Suburban,23328,1399680
+Master,11,Rural,Analyst,49,Male,95422.43442,senior,25-09-2040,31-08-2026,973,31,TRUE,2,Master,Rural,23352,1401120
+Master,11,Suburban,Director,52,Male,118732.8797,elder,27-10-2040,01-09-2026,974,32,TRUE,2,High School,Rural,23376,1402560
+PhD,28,Suburban,Manager,45,Male,150828.3688,senior,28-11-2040,02-09-2026,975,32,TRUE,2,Bachelor,Suburban,23400,1404000
+High School,4,Suburban,Director,56,Male,80360.31217,elder,30-12-2040,03-09-2026,976,32,FALSE,2,Master,Suburban,23424,1405440
+High School,23,Suburban,Director,39,Male,89616.88844,senior,31-01-2041,04-09-2026,977,32,TRUE,2,PhD,Suburban,23448,1406880
+High School,29,Urban,Engineer,52,Female,94614.4991,elder,04-03-2041,05-09-2026,978,32,TRUE,2,Master,Suburban,23472,1408320
+Bachelor,6,Suburban,Director,47,Male,88404.03831,senior,05-04-2041,06-09-2026,979,32,FALSE,2,Master,Urban,23496,1409760
+Master,27,Rural,Manager,46,Female,123672.4124,senior,07-05-2041,07-09-2026,980,32,TRUE,2,PhD,Suburban,23520,1411200
+High School,10,Urban,Manager,48,Female,77959.92128,senior,08-06-2041,08-09-2026,981,32,FALSE,2,Bachelor,Rural,23544,1412640
+Bachelor,9,Suburban,Manager,43,Male,87089.80187,senior,10-07-2041,09-09-2026,982,32,FALSE,2,High School,Urban,23568,1414080
+Master,29,Rural,Manager,38,Female,106944.9464,senior,11-08-2041,10-09-2026,983,32,TRUE,2,High School,Suburban,23592,1415520
+PhD,18,Urban,Analyst,25,Male,137478.6966,young,12-09-2041,11-09-2026,984,32,TRUE,2,High School,Rural,23616,1416960
+Master,20,Suburban,Engineer,21,Female,107442.4924,young,14-10-2041,12-09-2026,985,32,TRUE,2,PhD,Urban,23640,1418400
+Master,9,Suburban,Analyst,41,Male,112257.0796,senior,15-11-2041,13-09-2026,986,32,FALSE,2,PhD,Suburban,23664,1419840
+PhD,28,Suburban,Manager,54,Male,149580.1772,elder,17-12-2041,14-09-2026,987,32,TRUE,2,High School,Suburban,23688,1421280
+Bachelor,11,Suburban,Director,21,Female,100586.4041,young,18-01-2042,15-09-2026,988,32,TRUE,2,Master,Suburban,23712,1422720
+High School,2,Urban,Manager,49,Female,72915.21947,senior,19-02-2042,16-09-2026,989,32,FALSE,2,Master,Suburban,23736,1424160
+High School,15,Rural,Manager,54,Male,85534.39749,elder,23-03-2042,17-09-2026,990,32,TRUE,2,High School,Urban,23760,1425600
+High School,6,Suburban,Engineer,34,Female,55365.92337,adult,24-04-2042,18-09-2026,991,32,FALSE,2,High School,Rural,23784,1427040
+PhD,25,Urban,Engineer,62,Male,155147.3769,elder,26-05-2042,19-09-2026,992,32,TRUE,2,PhD,Suburban,23808,1428480
+PhD,17,Urban,Director,50,Male,171403.0364,FALSE,27-06-2042,20-09-2026,993,32,TRUE,2,High School,Urban,23832,1429920
+High School,4,Rural,Analyst,29,Female,58903.22811,adult,29-07-2042,21-09-2026,994,32,FALSE,2,Bachelor,Urban,23856,1431360
+Master,8,Urban,Manager,47,Female,134264.3149,senior,30-08-2042,22-09-2026,995,32,FALSE,2,Master,Rural,23880,1432800
+Master,29,Urban,Engineer,27,Male,141926.4602,young,01-10-2042,23-09-2026,996,32,TRUE,2,High School,Urban,23904,1434240
+High School,2,Rural,Director,32,Male,87148.82294,adult,02-11-2042,24-09-2026,997,32,FALSE,2,High School,Urban,23928,1435680
+High School,24,Urban,Manager,49,Male,110043.2632,senior,04-12-2042,25-09-2026,998,32,TRUE,2,PhD,Rural,23952,1437120
+PhD,9,Urban,Analyst,56,Male,126080.6953,elder,05-01-2043,26-09-2026,999,32,FALSE,2,Bachelor,Urban,23976,1438560
+High School,1,Rural,Analyst,58,Male,41707.761,elder,06-02-2043,27-09-2026,1000,32,FALSE,2,PhD,Urban,24000,1440000
+Bachelor,24,Urban,Engineer,48,Male,81377.56365,senior,10-03-2043,28-09-2026,1001,32,TRUE,2,High School,Rural,24024,1441440
+Master,6,Rural,Analyst,41,Male,77772.6688,senior,11-04-2043,29-09-2026,1002,32,FALSE,2,Master,Urban,24048,1442880
+High School,16,Suburban,Director,43,Female,86517.17201,senior,13-05-2043,30-09-2026,1003,32,TRUE,2,Bachelor,Rural,24072,1444320
+High School,27,Suburban,Engineer,57,Male,78182.64913,elder,14-06-2043,01-10-2026,1004,33,TRUE,2,Bachelor,Suburban,24096,1445760
+PhD,26,Suburban,Manager,40,Male,149472.0554,senior,16-07-2043,02-10-2026,1005,33,TRUE,2,Bachelor,Suburban,24120,1447200
+Bachelor,26,Suburban,Engineer,33,Male,90992.3951,adult,17-08-2043,03-10-2026,1006,33,TRUE,2,PhD,Suburban,24144,1448640
+PhD,7,Urban,Director,60,Male,131042.2239,elder,18-09-2043,04-10-2026,1007,33,FALSE,2,High School,Suburban,24168,1450080
+High School,25,Suburban,Director,61,Female,98697.76834,elder,20-10-2043,05-10-2026,1008,33,TRUE,2,High School,Urban,24192,1451520
+Master,24,Rural,Analyst,21,Male,107105.8207,young,21-11-2043,06-10-2026,1009,33,TRUE,2,High School,Suburban,24216,1452960
+Bachelor,16,Rural,Manager,28,Female,87924.45958,adult,23-12-2043,07-10-2026,1010,33,TRUE,2,Bachelor,Rural,24240,1454400
+Bachelor,6,Rural,Director,59,Female,88578.47838,elder,24-01-2044,08-10-2026,1011,33,FALSE,2,Bachelor,Rural,24264,1455840
+Bachelor,10,Rural,Analyst,64,Female,65598.43408,elder,25-02-2044,09-10-2026,1012,33,FALSE,2,Master,Rural,24288,1457280
+PhD,18,Suburban,Manager,29,Female,139034.7626,adult,28-03-2044,10-10-2026,1013,33,TRUE,2,Bachelor,Rural,24312,1458720
+High School,17,Rural,Manager,37,Female,68436.97173,senior,29-04-2044,11-10-2026,1014,33,TRUE,2,High School,Suburban,24336,1460160
+High School,17,Suburban,Director,45,Female,104598.7533,senior,31-05-2044,12-10-2026,1015,33,TRUE,2,High School,Rural,24360,1461600
+High School,12,Rural,Manager,43,Female,74409.96732,senior,02-07-2044,13-10-2026,1016,33,TRUE,2,Bachelor,Suburban,24384,1463040
+Bachelor,15,Rural,Manager,60,Female,85276.82082,elder,03-08-2044,14-10-2026,1017,33,TRUE,2,Master,Rural,24408,1464480
+Bachelor,6,Suburban,Analyst,30,Female,73195.52219,adult,04-09-2044,15-10-2026,1018,33,FALSE,2,Bachelor,Rural,24432,1465920
+Master,23,Suburban,Engineer,46,Male,106197.1439,senior,06-10-2044,16-10-2026,1019,33,TRUE,2,Bachelor,Suburban,24456,1467360
+Bachelor,20,Urban,Manager,33,Male,120121.683,adult,07-11-2044,17-10-2026,1020,33,TRUE,2,PhD,Suburban,24480,1468800
+High School,16,Urban,Analyst,51,Female,84841.86725,elder,09-12-2044,18-10-2026,1021,33,TRUE,2,Bachelor,Urban,24504,1470240
+High School,23,Urban,Analyst,41,Female,90520.01983,senior,10-01-2045,19-10-2026,1022,33,TRUE,2,High School,Urban,24528,1471680
+Bachelor,14,Rural,Analyst,53,Female,67553.07369,elder,11-02-2045,20-10-2026,1023,33,TRUE,2,High School,Urban,24552,1473120
+Master,12,Rural,Director,21,Male,121087.3298,young,15-03-2045,21-10-2026,1024,33,TRUE,2,High School,Rural,24576,1474560
+Bachelor,12,Rural,Director,52,Male,97984.29324,elder,16-04-2045,22-10-2026,1025,33,TRUE,2,PhD,Rural,24600,1476000
+Bachelor,2,Urban,Engineer,63,Female,87620.13106,elder,18-05-2045,23-10-2026,1026,33,FALSE,2,PhD,Rural,24624,1477440
+PhD,8,Urban,Director,26,Female,137920.902,young,19-06-2045,24-10-2026,1027,33,FALSE,2,Bachelor,Urban,24648,1478880
+Bachelor,24,Urban,Analyst,54,Male,92241.08306,elder,21-07-2045,25-10-2026,1028,33,TRUE,2,Master,Urban,24672,1480320
+High School,27,Rural,Analyst,50,Female,67867.82972,FALSE,22-08-2045,26-10-2026,1029,33,TRUE,2,Bachelor,Urban,24696,1481760
+High School,17,Suburban,Engineer,46,Male,73532.88469,senior,23-09-2045,27-10-2026,1030,33,TRUE,2,PhD,Rural,24720,1483200
+High School,8,Urban,Analyst,58,Male,69941.28708,elder,25-10-2045,28-10-2026,1031,33,FALSE,2,Bachelor,Suburban,24744,1484640
+PhD,16,Suburban,Director,56,Female,147712.7231,elder,26-11-2045,29-10-2026,1032,33,TRUE,2,PhD,Urban,24768,1486080
+PhD,23,Rural,Analyst,37,Male,134639.6508,senior,28-12-2045,30-10-2026,1033,33,TRUE,2,High School,Suburban,24792,1487520
+Bachelor,1,Urban,Engineer,32,Male,89220.76357,adult,29-01-2046,31-10-2026,1034,33,FALSE,2,High School,Rural,24816,1488960
+Master,5,Rural,Engineer,59,Male,92867.84763,elder,02-03-2046,01-11-2026,1035,34,FALSE,2,PhD,Urban,24840,1490400
+Bachelor,19,Suburban,Engineer,45,Male,81543.41867,senior,03-04-2046,02-11-2026,1036,34,TRUE,2,Bachelor,Rural,24864,1491840
+PhD,24,Rural,Manager,20,Female,132288.0966,young,05-05-2046,03-11-2026,1037,34,TRUE,2,Master,Suburban,24888,1493280
+Bachelor,22,Rural,Director,58,Male,117917.2698,elder,06-06-2046,04-11-2026,1038,34,TRUE,2,High School,Rural,24912,1494720
+PhD,3,Urban,Engineer,50,Female,118237.7556,FALSE,08-07-2046,05-11-2026,1039,34,FALSE,2,Master,Rural,24936,1496160
+High School,9,Suburban,Manager,61,Male,56873.70677,elder,09-08-2046,06-11-2026,1040,34,FALSE,2,PhD,Urban,24960,1497600
+High School,11,Urban,Director,56,Female,97129.52368,elder,10-09-2046,07-11-2026,1041,34,TRUE,2,PhD,Suburban,24984,1499040
+PhD,6,Rural,Manager,58,Male,127295.5452,elder,12-10-2046,08-11-2026,1042,34,FALSE,2,Master,Urban,25008,1500480
+Bachelor,7,Rural,Director,48,Male,82940.32919,senior,13-11-2046,09-11-2026,1043,34,FALSE,2,PhD,Rural,25032,1501920
+Master,7,Suburban,Director,62,Male,133794.1998,elder,15-12-2046,10-11-2026,1044,34,FALSE,2,Bachelor,Rural,25056,1503360
+High School,5,Rural,Director,43,Female,83366.35987,senior,16-01-2047,11-11-2026,1045,34,FALSE,2,Bachelor,Suburban,25080,1504800
+Master,2,Urban,Engineer,35,Female,103387.4525,senior,17-02-2047,12-11-2026,1046,34,FALSE,2,Bachelor,Rural,25104,1506240
+PhD,22,Suburban,Director,58,Male,144256.8063,elder,21-03-2047,13-11-2026,1047,34,TRUE,2,PhD,Urban,25128,1507680
+PhD,28,Rural,Manager,58,Female,133976.6947,elder,22-04-2047,14-11-2026,1048,34,TRUE,2,Master,Suburban,25152,1509120
+Master,5,Urban,Analyst,42,Male,96929.31513,senior,24-05-2047,15-11-2026,1049,34,FALSE,2,High School,Rural,25176,1510560
+PhD,6,Urban,Analyst,27,Male,103860.8461,young,25-06-2047,16-11-2026,1050,34,FALSE,2,High School,Urban,25200,1512000
+Bachelor,6,Suburban,Director,57,Male,105050.8027,elder,27-07-2047,17-11-2026,1051,34,FALSE,2,Bachelor,Urban,25224,1513440
+Bachelor,7,Rural,Engineer,22,Male,62891.76687,young,28-08-2047,18-11-2026,1052,34,FALSE,2,High School,Suburban,25248,1514880
+Bachelor,4,Urban,Director,33,Female,105649.1273,adult,29-09-2047,19-11-2026,1053,34,FALSE,2,PhD,Rural,25272,1516320
+PhD,25,Suburban,Manager,40,Male,147118.6855,senior,31-10-2047,20-11-2026,1054,34,TRUE,2,Master,Urban,25296,1517760
+Master,18,Urban,Analyst,49,Female,120117.8527,senior,02-12-2047,21-11-2026,1055,34,TRUE,2,PhD,Suburban,25320,1519200
+High School,16,Rural,Manager,52,Male,66620.52405,elder,03-01-2048,22-11-2026,1056,34,TRUE,2,PhD,Urban,25344,1520640
+High School,21,Urban,Manager,39,Male,93737.2945,senior,04-02-2048,23-11-2026,1057,34,TRUE,2,Master,Rural,25368,1522080
+Bachelor,19,Rural,Analyst,64,Female,70051.59807,elder,07-03-2048,24-11-2026,1058,34,TRUE,2,High School,Urban,25392,1523520
+High School,10,Urban,Engineer,64,Female,77955.49552,elder,08-04-2048,25-11-2026,1059,34,FALSE,2,Master,Rural,25416,1524960
+PhD,24,Rural,Manager,42,Female,142850.3823,senior,10-05-2048,26-11-2026,1060,34,TRUE,2,PhD,Urban,25440,1526400
+Master,5,Urban,Analyst,42,Male,104958.5067,senior,11-06-2048,27-11-2026,1061,34,FALSE,2,Master,Rural,25464,1527840
+PhD,18,Urban,Engineer,64,Male,124794.7465,elder,13-07-2048,28-11-2026,1062,34,TRUE,2,Master,Urban,25488,1529280
+PhD,25,Suburban,Manager,57,Male,154990.8428,elder,14-08-2048,29-11-2026,1063,34,TRUE,2,Bachelor,Urban,25512,1530720
+Master,3,Rural,Manager,54,Female,106062.034,elder,15-09-2048,30-11-2026,1064,34,FALSE,2,Bachelor,Suburban,25536,1532160
+High School,20,Urban,Manager,58,Male,93636.97893,elder,17-10-2048,01-12-2026,1065,35,TRUE,2,PhD,Rural,25560,1533600
+Master,4,Suburban,Manager,41,Female,112126.3396,senior,18-11-2048,02-12-2026,1066,35,FALSE,2,PhD,Urban,25584,1535040
+PhD,14,Urban,Director,48,Male,152065.3612,senior,20-12-2048,03-12-2026,1067,35,TRUE,2,High School,Suburban,25608,1536480
+Master,12,Suburban,Engineer,54,Female,119412.9922,elder,21-01-2049,04-12-2026,1068,35,TRUE,2,PhD,Urban,25632,1537920
+Master,14,Urban,Manager,21,Male,122441.0201,young,22-02-2049,05-12-2026,1069,35,TRUE,2,High School,Suburban,25656,1539360
+Bachelor,5,Suburban,Analyst,37,Male,67608.308,senior,26-03-2049,06-12-2026,1070,35,FALSE,2,High School,Urban,25680,1540800
+Bachelor,18,Rural,Director,54,Female,107412.7381,elder,27-04-2049,07-12-2026,1071,35,TRUE,2,Master,Suburban,25704,1542240
+PhD,27,Urban,Analyst,63,Male,132494.8205,elder,29-05-2049,08-12-2026,1072,35,TRUE,2,Master,Rural,25728,1543680
+PhD,7,Rural,Analyst,33,Male,107360.0358,adult,30-06-2049,09-12-2026,1073,35,FALSE,2,PhD,Urban,25752,1545120
+High School,16,Rural,Engineer,37,Female,64227.53384,senior,01-08-2049,10-12-2026,1074,35,TRUE,2,Bachelor,Rural,25776,1546560
+PhD,3,Suburban,Analyst,51,Male,109204.4588,elder,02-09-2049,11-12-2026,1075,35,FALSE,2,Bachelor,Rural,25800,1548000
+High School,22,Rural,Director,41,Female,93993.97073,senior,04-10-2049,12-12-2026,1076,35,TRUE,2,High School,Suburban,25824,1549440
+High School,21,Suburban,Manager,54,Female,105457.6139,elder,05-11-2049,13-12-2026,1077,35,TRUE,2,PhD,Rural,25848,1550880
+Master,11,Suburban,Manager,21,Male,121709.4984,young,07-12-2049,14-12-2026,1078,35,TRUE,2,High School,Suburban,25872,1552320
+Master,27,Suburban,Analyst,25,Male,127723.0065,young,08-01-2050,15-12-2026,1079,35,TRUE,2,Master,Suburban,25896,1553760
+PhD,26,Suburban,Engineer,58,Female,135962.9056,elder,09-02-2050,16-12-2026,1080,35,TRUE,2,PhD,Suburban,25920,1555200
+Bachelor,18,Suburban,Engineer,51,Female,87129.83711,elder,13-03-2050,17-12-2026,1081,35,TRUE,2,PhD,Suburban,25944,1556640
+Bachelor,6,Urban,Manager,48,Male,92218.21953,senior,14-04-2050,18-12-2026,1082,35,FALSE,2,Bachelor,Suburban,25968,1558080
+High School,26,Urban,Manager,58,Male,104528.891,elder,16-05-2050,19-12-2026,1083,35,TRUE,2,PhD,Urban,25992,1559520
+PhD,21,Rural,Analyst,24,Male,104518.8152,young,17-06-2050,20-12-2026,1084,35,TRUE,2,Bachelor,Urban,26016,1560960
+High School,22,Urban,Engineer,57,Female,71668.35225,elder,19-07-2050,21-12-2026,1085,35,TRUE,2,PhD,Rural,26040,1562400
+Master,24,Suburban,Analyst,27,Female,115023.3585,young,20-08-2050,22-12-2026,1086,35,TRUE,2,Master,Urban,26064,1563840
+PhD,5,Suburban,Manager,23,Female,127759.0763,young,21-09-2050,23-12-2026,1087,35,FALSE,2,High School,Suburban,26088,1565280
+PhD,5,Urban,Manager,41,Male,154677.2968,senior,23-10-2050,24-12-2026,1088,35,FALSE,2,Bachelor,Suburban,26112,1566720
+Bachelor,16,Rural,Analyst,41,Female,85476.83216,senior,24-11-2050,25-12-2026,1089,35,TRUE,2,Bachelor,Urban,26136,1568160
+PhD,3,Rural,Engineer,46,Male,106378.0856,senior,26-12-2050,26-12-2026,1090,35,FALSE,2,PhD,Rural,26160,1569600
+Bachelor,12,Urban,Manager,22,Male,86223.92931,young,27-01-2051,27-12-2026,1091,35,TRUE,2,PhD,Rural,26184,1571040
+PhD,3,Suburban,Manager,48,Male,124594.3997,senior,28-02-2051,28-12-2026,1092,35,FALSE,2,PhD,Urban,26208,1572480
+Master,2,Suburban,Engineer,52,Male,83967.79917,elder,01-04-2051,29-12-2026,1093,35,FALSE,2,Bachelor,Suburban,26232,1573920
+High School,15,Rural,Manager,57,Female,79667.5065,elder,03-05-2051,30-12-2026,1094,35,TRUE,2,Bachelor,Suburban,26256,1575360
+Bachelor,20,Urban,Engineer,53,Male,101611.0632,elder,04-06-2051,31-12-2026,1095,35,TRUE,2,Bachelor,Rural,26280,1576800
+Bachelor,17,Suburban,Engineer,55,Female,95200.31932,elder,06-07-2051,01-01-2027,1096,36,TRUE,2,PhD,Urban,26304,1578240
+PhD,12,Rural,Manager,52,Female,152791.7666,elder,07-08-2051,02-01-2027,1097,36,TRUE,2,PhD,Suburban,26328,1579680
+PhD,2,Rural,Analyst,59,Male,97925.34019,elder,08-09-2051,03-01-2027,1098,36,FALSE,2,Master,Rural,26352,1581120
+PhD,26,Urban,Manager,37,Female,154075.9579,senior,10-10-2051,04-01-2027,1099,36,TRUE,2,Master,Rural,26376,1582560
+Bachelor,2,Rural,Manager,29,Female,69874.84256,adult,11-11-2051,05-01-2027,1100,36,FALSE,2,Master,Urban,26400,1584000
+Bachelor,14,Suburban,Manager,55,Male,98194.01484,elder,13-12-2051,06-01-2027,1101,36,TRUE,2,High School,Rural,26424,1585440
+Bachelor,7,Rural,Director,64,Female,112932.7362,elder,14-01-2052,07-01-2027,1102,36,FALSE,2,PhD,Suburban,26448,1586880
+PhD,26,Rural,Manager,42,Male,151687.224,senior,15-02-2052,08-01-2027,1103,36,TRUE,2,PhD,Rural,26472,1588320
+PhD,25,Rural,Analyst,25,Male,128855.1295,young,18-03-2052,09-01-2027,1104,36,TRUE,2,Bachelor,Rural,26496,1589760
+Master,14,Urban,Analyst,42,Male,111516.3025,senior,19-04-2052,10-01-2027,1105,36,TRUE,2,Master,Rural,26520,1591200
+Master,7,Suburban,Analyst,29,Female,84891.44362,adult,21-05-2052,11-01-2027,1106,36,FALSE,2,PhD,Urban,26544,1592640
+Master,20,Rural,Engineer,21,Male,106062.6629,young,22-06-2052,12-01-2027,1107,36,TRUE,2,Bachelor,Suburban,26568,1594080
+High School,17,Urban,Director,63,Female,97852.52575,elder,24-07-2052,13-01-2027,1108,36,TRUE,2,PhD,Rural,26592,1595520
+PhD,24,Rural,Director,25,Female,154994.2199,young,25-08-2052,14-01-2027,1109,36,TRUE,2,PhD,Urban,26616,1596960
+PhD,27,Suburban,Analyst,62,Female,121693.8376,elder,26-09-2052,15-01-2027,1110,36,TRUE,2,Bachelor,Rural,26640,1598400
+Bachelor,4,Rural,Director,24,Female,97276.23179,young,28-10-2052,16-01-2027,1111,36,FALSE,2,Bachelor,Suburban,26664,1599840
+Master,27,Urban,Engineer,27,Male,129791.9649,young,29-11-2052,17-01-2027,1112,36,TRUE,2,Bachelor,Rural,26688,1601280
+PhD,15,Rural,Manager,39,Male,131229.4879,senior,31-12-2052,18-01-2027,1113,36,TRUE,2,High School,Urban,26712,1602720
+Bachelor,27,Rural,Analyst,58,Female,92041.74999,elder,01-02-2053,19-01-2027,1114,36,TRUE,2,Master,Rural,26736,1604160
+PhD,3,Rural,Director,33,Female,118165.0845,adult,05-03-2053,20-01-2027,1115,36,FALSE,2,Master,Rural,26760,1605600
+PhD,6,Urban,Analyst,31,Male,106202.0438,adult,06-04-2053,21-01-2027,1116,36,FALSE,2,High School,Rural,26784,1607040
+Bachelor,26,Rural,Analyst,43,Female,92346.87262,senior,08-05-2053,22-01-2027,1117,36,TRUE,2,Bachelor,Urban,26808,1608480
+Bachelor,8,Rural,Analyst,58,Male,66322.76809,elder,09-06-2053,23-01-2027,1118,36,FALSE,2,Bachelor,Rural,26832,1609920
+Bachelor,16,Urban,Analyst,31,Male,90884.4448,adult,11-07-2053,24-01-2027,1119,36,TRUE,2,High School,Rural,26856,1611360
+High School,15,Urban,Manager,60,Female,93394.90672,elder,12-08-2053,25-01-2027,1120,36,TRUE,2,PhD,Urban,26880,1612800
+Master,4,Suburban,Analyst,51,Female,92260.7007,elder,13-09-2053,26-01-2027,1121,36,FALSE,2,High School,Urban,26904,1614240
+Master,21,Urban,Director,23,Male,112893.3195,young,15-10-2053,27-01-2027,1122,36,TRUE,2,High School,Suburban,26928,1615680
+High School,8,Rural,Director,22,Male,76493.46362,young,16-11-2053,28-01-2027,1123,36,FALSE,2,PhD,Urban,26952,1617120
+Bachelor,23,Rural,Engineer,27,Female,88189.55978,young,18-12-2053,29-01-2027,1124,36,TRUE,2,Master,Rural,26976,1618560
+Bachelor,8,Urban,Engineer,22,Male,85653.05646,young,19-01-2054,30-01-2027,1125,36,FALSE,2,Bachelor,Rural,27000,1620000
+High School,20,Suburban,Director,45,Female,103997.3081,senior,20-02-2054,31-01-2027,1126,36,TRUE,2,Master,Urban,27024,1621440
+PhD,7,Urban,Analyst,25,Male,106214.6981,young,24-03-2054,01-02-2027,1127,37,FALSE,2,Bachelor,Suburban,27048,1622880
+High School,26,Suburban,Director,36,Male,103439.5662,senior,25-04-2054,02-02-2027,1128,37,TRUE,2,Master,Urban,27072,1624320
+High School,20,Urban,Engineer,28,Female,95703.03912,adult,27-05-2054,03-02-2027,1129,37,TRUE,2,High School,Suburban,27096,1625760
+PhD,24,Suburban,Analyst,37,Male,127740.5689,senior,28-06-2054,04-02-2027,1130,37,TRUE,2,Master,Urban,27120,1627200
+Master,18,Suburban,Director,48,Female,137723.2789,senior,30-07-2054,05-02-2027,1131,37,TRUE,2,High School,Suburban,27144,1628640
+Bachelor,12,Rural,Manager,34,Male,101663.0578,adult,31-08-2054,06-02-2027,1132,37,TRUE,2,Bachelor,Suburban,27168,1630080
+Master,4,Suburban,Director,26,Female,121102.3144,young,02-10-2054,07-02-2027,1133,37,FALSE,2,Bachelor,Rural,27192,1631520
+Bachelor,14,Rural,Engineer,33,Female,77149.0302,adult,03-11-2054,08-02-2027,1134,37,TRUE,2,Bachelor,Suburban,27216,1632960
+Master,27,Urban,Director,48,Female,139904.7899,senior,05-12-2054,09-02-2027,1135,37,TRUE,2,High School,Rural,27240,1634400
+High School,24,Urban,Analyst,23,Female,86438.00154,young,06-01-2055,10-02-2027,1136,37,TRUE,2,PhD,Urban,27264,1635840
+Master,25,Urban,Director,64,Male,150921.4909,elder,07-02-2055,11-02-2027,1137,37,TRUE,2,High School,Urban,27288,1637280
+High School,28,Urban,Engineer,58,Male,80135.31585,elder,11-03-2055,12-02-2027,1138,37,TRUE,2,PhD,Urban,27312,1638720
+Bachelor,29,Urban,Director,24,Male,117235.2685,young,12-04-2055,13-02-2027,1139,37,TRUE,2,High School,Urban,27336,1640160
+Bachelor,25,Rural,Analyst,20,Male,77191.93286,young,14-05-2055,14-02-2027,1140,37,TRUE,2,High School,Urban,27360,1641600
+Bachelor,5,Urban,Director,31,Male,121616.5186,adult,15-06-2055,15-02-2027,1141,37,FALSE,2,High School,Rural,27384,1643040
+High School,22,Suburban,Engineer,58,Male,76320.5488,elder,17-07-2055,16-02-2027,1142,37,TRUE,2,High School,Urban,27408,1644480
+PhD,20,Rural,Manager,26,Male,163602.2859,young,18-08-2055,17-02-2027,1143,37,TRUE,2,Bachelor,Suburban,27432,1645920
+High School,23,Suburban,Director,40,Male,103555.456,senior,19-09-2055,18-02-2027,1144,37,TRUE,2,PhD,Rural,27456,1647360
+PhD,26,Rural,Director,26,Male,160395.2232,young,21-10-2055,19-02-2027,1145,37,TRUE,2,PhD,Suburban,27480,1648800
+High School,7,Suburban,Engineer,36,Male,65062.72488,senior,22-11-2055,20-02-2027,1146,37,FALSE,2,High School,Rural,27504,1650240
+High School,12,Rural,Engineer,20,Male,71991.4985,young,24-12-2055,21-02-2027,1147,37,TRUE,2,PhD,Suburban,27528,1651680
+High School,15,Urban,Director,23,Male,85339.36815,young,25-01-2056,22-02-2027,1148,37,TRUE,2,Master,Rural,27552,1653120
+High School,19,Rural,Engineer,25,Male,90600.13108,young,26-02-2056,23-02-2027,1149,37,TRUE,2,Master,Urban,27576,1654560
+Bachelor,26,Rural,Engineer,59,Male,94996.98297,elder,29-03-2056,24-02-2027,1150,37,TRUE,2,Bachelor,Rural,27600,1656000
+PhD,13,Suburban,Analyst,36,Male,115965.9991,senior,30-04-2056,25-02-2027,1151,37,TRUE,2,Bachelor,Rural,27624,1657440
+PhD,4,Rural,Director,45,Female,137025.61,senior,01-06-2056,26-02-2027,1152,37,FALSE,2,Bachelor,Suburban,27648,1658880
+High School,6,Rural,Director,50,Male,86923.38876,FALSE,03-07-2056,27-02-2027,1153,37,FALSE,2,Master,Rural,27672,1660320
+PhD,8,Urban,Manager,47,Male,127924.4512,senior,04-08-2056,28-02-2027,1154,37,FALSE,2,Bachelor,Rural,27696,1661760
+Master,15,Suburban,Manager,31,Female,125668.6937,adult,05-09-2056,01-03-2027,1155,38,TRUE,2,Bachelor,Urban,27720,1663200
+Master,12,Rural,Engineer,60,Male,94835.55842,elder,07-10-2056,02-03-2027,1156,38,TRUE,2,High School,Suburban,27744,1664640
+Bachelor,10,Suburban,Engineer,20,Male,79937.26467,young,08-11-2056,03-03-2027,1157,38,FALSE,2,Bachelor,Rural,27768,1666080
+Bachelor,12,Rural,Director,53,Male,97105.17581,elder,10-12-2056,04-03-2027,1158,38,TRUE,2,Master,Suburban,27792,1667520
+Bachelor,17,Rural,Manager,45,Female,104635.4147,senior,11-01-2057,05-03-2027,1159,38,TRUE,2,Bachelor,Rural,27816,1668960
+Master,29,Suburban,Director,34,Male,132909.2727,adult,12-02-2057,06-03-2027,1160,38,TRUE,2,Bachelor,Rural,27840,1670400
+Bachelor,28,Urban,Director,54,Male,129926.1611,elder,16-03-2057,07-03-2027,1161,38,TRUE,2,High School,Suburban,27864,1671840
+Bachelor,8,Rural,Director,60,Male,94565.82136,elder,17-04-2057,08-03-2027,1162,38,FALSE,2,High School,Urban,27888,1673280
+High School,28,Rural,Manager,63,Female,79527.89822,elder,19-05-2057,09-03-2027,1163,38,TRUE,2,Bachelor,Rural,27912,1674720
+Bachelor,2,Rural,Director,58,Female,79864.76397,elder,20-06-2057,10-03-2027,1164,38,FALSE,2,Bachelor,Rural,27936,1676160
+Master,19,Suburban,Manager,39,Male,111971.1168,senior,22-07-2057,11-03-2027,1165,38,TRUE,2,Master,Rural,27960,1677600
+Bachelor,22,Urban,Manager,62,Male,95662.03982,elder,23-08-2057,12-03-2027,1166,38,TRUE,2,PhD,Suburban,27984,1679040
+Bachelor,29,Rural,Engineer,54,Male,107961.6719,elder,24-09-2057,13-03-2027,1167,38,TRUE,2,PhD,Urban,28008,1680480
+High School,1,Rural,Director,58,Female,68583.46837,elder,26-10-2057,14-03-2027,1168,38,FALSE,2,Bachelor,Rural,28032,1681920
+High School,22,Rural,Manager,41,Male,83586.5193,senior,27-11-2057,15-03-2027,1169,38,TRUE,2,PhD,Rural,28056,1683360
+Bachelor,25,Suburban,Engineer,40,Female,111781.8936,senior,29-12-2057,16-03-2027,1170,38,TRUE,2,PhD,Rural,28080,1684800
+Bachelor,10,Suburban,Engineer,46,Female,72798.82843,senior,30-01-2058,17-03-2027,1171,38,FALSE,2,PhD,Suburban,28104,1686240
+Master,9,Suburban,Manager,55,Male,104584.5432,elder,03-03-2058,18-03-2027,1172,38,FALSE,2,Master,Suburban,28128,1687680
+PhD,19,Suburban,Analyst,47,Male,131547.1554,senior,04-04-2058,19-03-2027,1173,38,TRUE,2,Master,Suburban,28152,1689120
+PhD,12,Urban,Engineer,23,Female,113759.2045,young,06-05-2058,20-03-2027,1174,38,TRUE,2,Bachelor,Suburban,28176,1690560
+Bachelor,29,Suburban,Manager,45,Male,108212.9149,senior,07-06-2058,21-03-2027,1175,38,TRUE,2,Master,Urban,28200,1692000
+PhD,22,Suburban,Engineer,27,Male,127751.0693,young,09-07-2058,22-03-2027,1176,38,TRUE,2,PhD,Suburban,28224,1693440
+PhD,20,Rural,Analyst,24,Male,128295.2244,young,10-08-2058,23-03-2027,1177,38,TRUE,2,Master,Suburban,28248,1694880
+PhD,18,Suburban,Director,24,Male,148741.8413,young,11-09-2058,24-03-2027,1178,38,TRUE,2,High School,Rural,28272,1696320
+Master,24,Urban,Manager,29,Male,154081.4928,adult,13-10-2058,25-03-2027,1179,38,TRUE,2,PhD,Suburban,28296,1697760
+Master,16,Urban,Director,24,Female,145378.9137,young,14-11-2058,26-03-2027,1180,38,TRUE,2,PhD,Urban,28320,1699200
+Bachelor,4,Rural,Engineer,53,Female,65467.61516,elder,16-12-2058,27-03-2027,1181,38,FALSE,2,Bachelor,Urban,28344,1700640
+Master,11,Urban,Analyst,30,Female,102126.8656,adult,17-01-2059,28-03-2027,1182,38,TRUE,2,Bachelor,Rural,28368,1702080
+PhD,25,Suburban,Analyst,43,Female,131524.1549,senior,18-02-2059,29-03-2027,1183,38,TRUE,2,Bachelor,Urban,28392,1703520
+Master,22,Suburban,Engineer,52,Male,150065.7435,elder,22-03-2059,30-03-2027,1184,38,TRUE,2,Master,Suburban,28416,1704960
+High School,29,Urban,Manager,33,Female,83898.00356,adult,23-04-2059,31-03-2027,1185,38,TRUE,2,Bachelor,Suburban,28440,1706400
+PhD,27,Urban,Manager,41,Male,159035.397,senior,25-05-2059,01-04-2027,1186,39,TRUE,2,Bachelor,Urban,28464,1707840
+PhD,22,Suburban,Engineer,48,Male,116155.6786,senior,26-06-2059,02-04-2027,1187,39,TRUE,2,Bachelor,Urban,28488,1709280
+Bachelor,15,Rural,Analyst,43,Female,79930.62559,senior,28-07-2059,03-04-2027,1188,39,TRUE,2,Master,Suburban,28512,1710720
+Bachelor,16,Suburban,Director,25,Female,130098.9056,young,29-08-2059,04-04-2027,1189,39,TRUE,2,High School,Rural,28536,1712160
+Bachelor,2,Rural,Analyst,22,Female,62915.44568,young,30-09-2059,05-04-2027,1190,39,FALSE,2,PhD,Suburban,28560,1713600
+Master,13,Rural,Analyst,20,Female,109045.5442,young,01-11-2059,06-04-2027,1191,39,TRUE,2,Bachelor,Rural,28584,1715040
+Bachelor,12,Urban,Analyst,29,Female,86338.84774,adult,03-12-2059,07-04-2027,1192,39,TRUE,2,High School,Rural,28608,1716480
+Bachelor,26,Rural,Engineer,27,Male,91775.01283,young,04-01-2060,08-04-2027,1193,39,TRUE,2,PhD,Urban,28632,1717920
+Bachelor,8,Suburban,Director,49,Female,100483.4364,senior,05-02-2060,09-04-2027,1194,39,FALSE,2,Bachelor,Rural,28656,1719360
+Master,12,Suburban,Analyst,41,Male,96130.97355,senior,08-03-2060,10-04-2027,1195,39,TRUE,2,Bachelor,Suburban,28680,1720800
+High School,27,Urban,Engineer,36,Male,80739.41728,senior,09-04-2060,11-04-2027,1196,39,TRUE,2,Master,Suburban,28704,1722240
+PhD,14,Rural,Manager,34,Male,120698.0559,adult,11-05-2060,12-04-2027,1197,39,TRUE,2,High School,Urban,28728,1723680
+Bachelor,3,Suburban,Manager,39,Female,103068.0073,senior,12-06-2060,13-04-2027,1198,39,FALSE,2,Master,Rural,28752,1725120
+High School,2,Rural,Analyst,57,Male,43069.23604,elder,14-07-2060,14-04-2027,1199,39,FALSE,2,PhD,Suburban,28776,1726560
+PhD,17,Suburban,Analyst,46,Male,129937.7431,senior,15-08-2060,15-04-2027,1200,39,TRUE,2,High School,Rural,28800,1728000
+Bachelor,2,Suburban,Director,32,Female,88234.68149,adult,16-09-2060,16-04-2027,1201,39,FALSE,2,Master,Suburban,28824,1729440
+Bachelor,17,Suburban,Analyst,35,Male,98169.90559,senior,18-10-2060,17-04-2027,1202,39,TRUE,2,High School,Suburban,28848,1730880
+Master,2,Suburban,Manager,39,Female,104264.4422,senior,19-11-2060,18-04-2027,1203,39,FALSE,2,Master,Suburban,28872,1732320
+High School,2,Urban,Engineer,38,Male,61089.67332,senior,21-12-2060,19-04-2027,1204,39,FALSE,2,High School,Suburban,28896,1733760
+Master,13,Urban,Engineer,62,Female,94710.23365,elder,22-01-2061,20-04-2027,1205,39,TRUE,2,High School,Urban,28920,1735200
+PhD,7,Rural,Director,22,Female,140959.7621,young,23-02-2061,21-04-2027,1206,39,FALSE,2,PhD,Urban,28944,1736640
+High School,9,Rural,Engineer,36,Female,77115.05705,senior,27-03-2061,22-04-2027,1207,39,FALSE,2,PhD,Rural,28968,1738080
+Master,9,Urban,Director,31,Male,120309.2241,adult,28-04-2061,23-04-2027,1208,39,FALSE,2,PhD,Rural,28992,1739520
+High School,14,Suburban,Analyst,55,Male,59417.70846,elder,30-05-2061,24-04-2027,1209,39,TRUE,2,High School,Urban,29016,1740960
+Master,11,Rural,Engineer,29,Female,89616.76042,adult,01-07-2061,25-04-2027,1210,39,TRUE,2,High School,Suburban,29040,1742400
+High School,20,Rural,Director,29,Female,91291.62174,adult,02-08-2061,26-04-2027,1211,39,TRUE,2,PhD,Rural,29064,1743840
+High School,19,Urban,Director,50,Male,99640.24198,FALSE,03-09-2061,27-04-2027,1212,39,TRUE,2,Bachelor,Rural,29088,1745280
+PhD,1,Rural,Analyst,42,Female,113050.811,senior,05-10-2061,28-04-2027,1213,39,FALSE,2,PhD,Urban,29112,1746720
+PhD,24,Urban,Manager,62,Female,159514.7355,elder,06-11-2061,29-04-2027,1214,39,TRUE,2,Master,Rural,29136,1748160
+PhD,5,Suburban,Engineer,40,Male,111874.8395,senior,08-12-2061,30-04-2027,1215,39,FALSE,2,PhD,Urban,29160,1749600
+High School,23,Rural,Analyst,61,Male,70249.48049,elder,09-01-2062,01-05-2027,1216,40,TRUE,2,High School,Suburban,29184,1751040
+High School,1,Suburban,Engineer,39,Male,52716.98893,senior,10-02-2062,02-05-2027,1217,40,FALSE,2,PhD,Rural,29208,1752480
+PhD,6,Suburban,Manager,24,Male,120089.6702,young,14-03-2062,03-05-2027,1218,40,FALSE,2,High School,Suburban,29232,1753920
+Bachelor,16,Urban,Engineer,35,Male,94731.44127,senior,15-04-2062,04-05-2027,1219,40,TRUE,2,PhD,Suburban,29256,1755360
+PhD,20,Suburban,Director,53,Female,193016.6021,elder,17-05-2062,05-05-2027,1220,40,TRUE,2,PhD,Urban,29280,1756800
+Master,16,Urban,Engineer,20,Female,139151.7063,young,18-06-2062,06-05-2027,1221,40,TRUE,2,Bachelor,Suburban,29304,1758240
+PhD,20,Urban,Director,35,Female,161398.266,senior,20-07-2062,07-05-2027,1222,40,TRUE,2,Master,Urban,29328,1759680
+High School,26,Rural,Manager,33,Female,103388.5721,adult,21-08-2062,08-05-2027,1223,40,TRUE,2,Bachelor,Urban,29352,1761120
+PhD,13,Suburban,Director,29,Female,147546.1664,adult,22-09-2062,09-05-2027,1224,40,TRUE,2,High School,Rural,29376,1762560
+High School,14,Urban,Analyst,62,Female,68468.61661,elder,24-10-2062,10-05-2027,1225,40,TRUE,2,High School,Suburban,29400,1764000
+PhD,11,Rural,Director,30,Female,121504.2821,adult,25-11-2062,11-05-2027,1226,40,TRUE,2,PhD,Urban,29424,1765440
+PhD,21,Urban,Director,59,Female,151398.9443,elder,27-12-2062,12-05-2027,1227,40,TRUE,2,High School,Rural,29448,1766880
+Bachelor,10,Suburban,Analyst,54,Female,72165.00736,elder,28-01-2063,13-05-2027,1228,40,FALSE,2,PhD,Urban,29472,1768320
+Master,17,Suburban,Director,59,Male,133075.1903,elder,01-03-2063,14-05-2027,1229,40,TRUE,2,High School,Suburban,29496,1769760
+Bachelor,7,Rural,Director,64,Female,97139.84535,elder,02-04-2063,15-05-2027,1230,40,FALSE,2,High School,Suburban,29520,1771200
+High School,22,Rural,Analyst,64,Female,61210.57649,elder,04-05-2063,16-05-2027,1231,40,TRUE,2,Bachelor,Rural,29544,1772640
+High School,4,Rural,Director,62,Male,68111.868,elder,05-06-2063,17-05-2027,1232,40,FALSE,2,High School,Rural,29568,1774080
+PhD,17,Rural,Director,21,Female,145338.4686,young,07-07-2063,18-05-2027,1233,40,TRUE,2,Master,Rural,29592,1775520
+High School,1,Rural,Engineer,28,Female,37185.88349,adult,08-08-2063,19-05-2027,1234,40,FALSE,2,Master,Rural,29616,1776960
+PhD,2,Suburban,Engineer,20,Male,110873.6144,young,09-09-2063,20-05-2027,1235,40,FALSE,2,Master,Rural,29640,1778400
+High School,19,Rural,Director,31,Male,85187.1013,adult,11-10-2063,21-05-2027,1236,40,TRUE,2,High School,Suburban,29664,1779840
+High School,1,Rural,Analyst,46,Male,33510.51067,senior,12-11-2063,22-05-2027,1237,40,FALSE,2,High School,Rural,29688,1781280
+Bachelor,12,Rural,Analyst,50,Male,73697.62107,FALSE,14-12-2063,23-05-2027,1238,40,TRUE,2,Master,Rural,29712,1782720
+High School,28,Rural,Engineer,63,Male,69651.92836,elder,15-01-2064,24-05-2027,1239,40,TRUE,2,High School,Rural,29736,1784160
+Master,19,Suburban,Analyst,62,Male,121353.8239,elder,16-02-2064,25-05-2027,1240,40,TRUE,2,Master,Rural,29760,1785600
+Master,19,Suburban,Analyst,39,Female,106561.962,senior,19-03-2064,26-05-2027,1241,40,TRUE,2,PhD,Suburban,29784,1787040
+Master,26,Urban,Engineer,41,Female,124104.5433,senior,20-04-2064,27-05-2027,1242,40,TRUE,2,Master,Suburban,29808,1788480
+High School,23,Rural,Manager,21,Female,87280.28107,young,22-05-2064,28-05-2027,1243,40,TRUE,2,PhD,Urban,29832,1789920
+High School,16,Rural,Engineer,38,Female,71569.68317,senior,23-06-2064,29-05-2027,1244,40,TRUE,2,PhD,Rural,29856,1791360
+Master,16,Suburban,Analyst,48,Female,88637.58196,senior,25-07-2064,30-05-2027,1245,40,TRUE,2,High School,Rural,29880,1792800
+High School,29,Suburban,Director,31,Female,100232.1589,adult,26-08-2064,31-05-2027,1246,40,TRUE,2,Bachelor,Suburban,29904,1794240
+Master,8,Suburban,Analyst,59,Male,88909.67674,elder,27-09-2064,01-06-2027,1247,41,FALSE,2,Bachelor,Suburban,29928,1795680
+PhD,28,Rural,Director,29,Female,156548.2976,adult,29-10-2064,02-06-2027,1248,41,TRUE,2,Bachelor,Suburban,29952,1797120
+Master,25,Urban,Director,44,Male,139636.6748,senior,30-11-2064,03-06-2027,1249,41,TRUE,2,High School,Rural,29976,1798560
+PhD,26,Urban,Director,24,Male,167570.6946,young,01-01-2065,04-06-2027,1250,41,TRUE,2,High School,Urban,30000,1800000
+PhD,27,Suburban,Manager,46,Female,142195.4075,senior,02-02-2065,05-06-2027,1251,41,TRUE,2,PhD,Urban,30024,1801440
+High School,25,Suburban,Manager,63,Male,84322.32758,elder,06-03-2065,06-06-2027,1252,41,TRUE,2,PhD,Suburban,30048,1802880
+Bachelor,13,Suburban,Engineer,41,Male,82088.40331,senior,07-04-2065,07-06-2027,1253,41,TRUE,2,Bachelor,Suburban,30072,1804320
+Bachelor,14,Suburban,Manager,34,Male,109825.9137,adult,09-05-2065,08-06-2027,1254,41,TRUE,2,PhD,Suburban,30096,1805760
+Bachelor,19,Urban,Director,49,Female,122680.0366,senior,10-06-2065,09-06-2027,1255,41,TRUE,2,High School,Suburban,30120,1807200
+High School,15,Urban,Analyst,21,Female,73688.88708,young,12-07-2065,10-06-2027,1256,41,TRUE,2,PhD,Urban,30144,1808640
+High School,15,Suburban,Analyst,34,Male,62136.81719,adult,13-08-2065,11-06-2027,1257,41,TRUE,2,High School,Urban,30168,1810080
+PhD,21,Urban,Director,20,Female,157152.8215,young,14-09-2065,12-06-2027,1258,41,TRUE,2,Bachelor,Suburban,30192,1811520
+PhD,8,Suburban,Analyst,35,Female,123610.0289,senior,16-10-2065,13-06-2027,1259,41,FALSE,2,Master,Urban,30216,1812960
+Bachelor,24,Urban,Analyst,53,Male,106774.3393,elder,17-11-2065,14-06-2027,1260,41,TRUE,2,Master,Suburban,30240,1814400
+PhD,13,Rural,Manager,52,Female,133151.4679,elder,19-12-2065,15-06-2027,1261,41,TRUE,2,High School,Urban,30264,1815840
+High School,12,Rural,Director,57,Male,93416.47945,elder,20-01-2066,16-06-2027,1262,41,TRUE,2,Master,Rural,30288,1817280
+PhD,22,Urban,Analyst,25,Female,149741.5503,young,21-02-2066,17-06-2027,1263,41,TRUE,2,Bachelor,Rural,30312,1818720
+High School,28,Suburban,Analyst,50,Female,61353.01961,FALSE,25-03-2066,18-06-2027,1264,41,TRUE,2,PhD,Urban,30336,1820160
+Bachelor,13,Urban,Analyst,61,Male,92303.78885,elder,26-04-2066,19-06-2027,1265,41,TRUE,2,PhD,Suburban,30360,1821600
+Master,16,Suburban,Director,29,Male,130573.9807,adult,28-05-2066,20-06-2027,1266,41,TRUE,2,PhD,Urban,30384,1823040
+Master,24,Suburban,Director,27,Male,142882.8881,young,29-06-2066,21-06-2027,1267,41,TRUE,2,Bachelor,Suburban,30408,1824480
+High School,12,Suburban,Engineer,50,Female,78159.76528,FALSE,31-07-2066,22-06-2027,1268,41,TRUE,2,Master,Suburban,30432,1825920
+Master,14,Suburban,Engineer,41,Male,99794.61837,senior,01-09-2066,23-06-2027,1269,41,TRUE,2,Bachelor,Suburban,30456,1827360
+Bachelor,15,Urban,Analyst,50,Female,73797.25898,FALSE,03-10-2066,24-06-2027,1270,41,TRUE,2,Master,Suburban,30480,1828800
+PhD,19,Urban,Manager,61,Female,160061.9147,elder,04-11-2066,25-06-2027,1271,41,TRUE,2,PhD,Urban,30504,1830240
+PhD,5,Rural,Manager,28,Female,115015.1536,adult,06-12-2066,26-06-2027,1272,41,FALSE,2,Master,Urban,30528,1831680
+PhD,29,Suburban,Director,21,Female,157137.8049,young,07-01-2067,27-06-2027,1273,41,TRUE,2,Bachelor,Rural,30552,1833120
+Bachelor,2,Rural,Director,41,Male,94046.20893,senior,08-02-2067,28-06-2027,1274,41,FALSE,2,Master,Suburban,30576,1834560
+Master,18,Urban,Engineer,28,Male,111138.9818,adult,12-03-2067,29-06-2027,1275,41,TRUE,2,PhD,Rural,30600,1836000
+Bachelor,18,Urban,Engineer,20,Male,82077.89372,young,13-04-2067,30-06-2027,1276,41,TRUE,2,PhD,Urban,30624,1837440
+Master,24,Suburban,Director,47,Male,139341.8977,senior,15-05-2067,01-07-2027,1277,42,TRUE,2,High School,Urban,30648,1838880
+PhD,26,Urban,Manager,45,Female,148185.1534,senior,16-06-2067,02-07-2027,1278,42,TRUE,2,High School,Suburban,30672,1840320
+Master,17,Suburban,Engineer,49,Male,117978.5988,senior,18-07-2067,03-07-2027,1279,42,TRUE,2,Master,Urban,30696,1841760
+Bachelor,10,Rural,Engineer,27,Male,74939.23444,young,19-08-2067,04-07-2027,1280,42,FALSE,2,Bachelor,Suburban,30720,1843200
+Master,27,Suburban,Analyst,46,Female,110115.5386,senior,20-09-2067,05-07-2027,1281,42,TRUE,2,PhD,Rural,30744,1844640
+PhD,17,Urban,Manager,51,Male,144899.9946,elder,22-10-2067,06-07-2027,1282,42,TRUE,2,Bachelor,Suburban,30768,1846080
+PhD,3,Urban,Analyst,34,Male,128521.5348,adult,23-11-2067,07-07-2027,1283,42,FALSE,2,Master,Urban,30792,1847520
+High School,16,Urban,Engineer,39,Male,85079.04082,senior,25-12-2067,08-07-2027,1284,42,TRUE,2,Master,Urban,30816,1848960
+High School,18,Rural,Engineer,28,Female,57067.73818,adult,26-01-2068,09-07-2027,1285,42,TRUE,2,Bachelor,Urban,30840,1850400
+Master,21,Suburban,Engineer,59,Male,143997.0765,elder,27-02-2068,10-07-2027,1286,42,TRUE,2,High School,Rural,30864,1851840
+Bachelor,7,Rural,Engineer,49,Male,73742.23675,senior,30-03-2068,11-07-2027,1287,42,FALSE,2,Master,Suburban,30888,1853280
+PhD,1,Urban,Director,43,Male,129475.8427,senior,01-05-2068,12-07-2027,1288,42,FALSE,2,PhD,Rural,30912,1854720
+Bachelor,7,Suburban,Manager,33,Female,100882.3199,adult,02-06-2068,13-07-2027,1289,42,FALSE,2,High School,Urban,30936,1856160
+Master,13,Rural,Manager,60,Female,109383.2754,elder,04-07-2068,14-07-2027,1290,42,TRUE,2,Master,Suburban,30960,1857600
+Master,23,Suburban,Manager,21,Male,149537.1951,young,05-08-2068,15-07-2027,1291,42,TRUE,2,High School,Rural,30984,1859040
+Bachelor,16,Urban,Manager,45,Male,114474.0836,senior,06-09-2068,16-07-2027,1292,42,TRUE,2,PhD,Suburban,31008,1860480
+High School,11,Rural,Analyst,44,Female,54012.80154,senior,08-10-2068,17-07-2027,1293,42,TRUE,2,Master,Urban,31032,1861920
+Master,3,Suburban,Analyst,50,Male,108753.0688,FALSE,09-11-2068,18-07-2027,1294,42,FALSE,2,Bachelor,Rural,31056,1863360
+PhD,9,Suburban,Analyst,61,Male,127491.1521,elder,11-12-2068,19-07-2027,1295,42,FALSE,2,Master,Suburban,31080,1864800
+High School,7,Urban,Engineer,36,Female,54711.04803,senior,12-01-2069,20-07-2027,1296,42,FALSE,2,Bachelor,Suburban,31104,1866240
+Master,23,Urban,Director,31,Male,151883.9411,adult,13-02-2069,21-07-2027,1297,42,TRUE,2,High School,Urban,31128,1867680
+High School,22,Urban,Manager,59,Male,86835.12558,elder,17-03-2069,22-07-2027,1298,42,TRUE,2,Bachelor,Urban,31152,1869120
+PhD,3,Rural,Director,27,Male,132166.7371,young,18-04-2069,23-07-2027,1299,42,FALSE,2,Bachelor,Urban,31176,1870560
+Master,22,Rural,Manager,58,Male,123310.5445,elder,20-05-2069,24-07-2027,1300,42,TRUE,2,Master,Rural,31200,1872000
+Bachelor,1,Suburban,Manager,41,Female,77209.03988,senior,21-06-2069,25-07-2027,1301,42,FALSE,2,Master,Rural,31224,1873440
+Master,11,Suburban,Analyst,44,Male,87666.57721,senior,23-07-2069,26-07-2027,1302,42,TRUE,2,PhD,Suburban,31248,1874880
+Bachelor,13,Rural,Engineer,57,Male,86677.84011,elder,24-08-2069,27-07-2027,1303,42,TRUE,2,High School,Suburban,31272,1876320
+High School,4,Suburban,Engineer,63,Female,45117.66501,elder,25-09-2069,28-07-2027,1304,42,FALSE,2,Bachelor,Rural,31296,1877760
+Bachelor,10,Rural,Director,56,Male,74247.97373,elder,27-10-2069,29-07-2027,1305,42,FALSE,2,High School,Suburban,31320,1879200
+Bachelor,26,Suburban,Engineer,52,Female,92638.94396,elder,28-11-2069,30-07-2027,1306,42,TRUE,2,PhD,Rural,31344,1880640
+Master,8,Rural,Analyst,29,Male,96310.92421,adult,30-12-2069,31-07-2027,1307,42,FALSE,2,High School,Suburban,31368,1882080
+Master,28,Suburban,Manager,60,Male,130301.1887,elder,31-01-2070,01-08-2027,1308,43,TRUE,2,High School,Rural,31392,1883520
+PhD,28,Suburban,Director,36,Male,175671.3094,senior,04-03-2070,02-08-2027,1309,43,TRUE,2,Master,Suburban,31416,1884960
+High School,17,Rural,Analyst,55,Female,63837.53495,elder,05-04-2070,03-08-2027,1310,43,TRUE,2,High School,Suburban,31440,1886400
+Bachelor,11,Urban,Manager,23,Male,93336.90348,young,07-05-2070,04-08-2027,1311,43,TRUE,2,PhD,Rural,31464,1887840
+High School,5,Rural,Engineer,59,Female,50604.1645,elder,08-06-2070,05-08-2027,1312,43,FALSE,2,Bachelor,Urban,31488,1889280
+PhD,18,Rural,Director,57,Male,133634.5864,elder,10-07-2070,06-08-2027,1313,43,TRUE,2,High School,Rural,31512,1890720
+High School,4,Urban,Director,23,Male,94857.97225,young,11-08-2070,07-08-2027,1314,43,FALSE,2,PhD,Rural,31536,1892160
+High School,6,Suburban,Manager,60,Male,57188.99914,elder,12-09-2070,08-08-2027,1315,43,FALSE,2,Master,Urban,31560,1893600
+Master,24,Urban,Engineer,55,Female,114795.9237,elder,14-10-2070,09-08-2027,1316,43,TRUE,2,Bachelor,Suburban,31584,1895040
+High School,7,Urban,Director,21,Male,85397.1378,young,15-11-2070,10-08-2027,1317,43,FALSE,2,PhD,Urban,31608,1896480
+PhD,28,Urban,Engineer,23,Female,148023.5326,young,17-12-2070,11-08-2027,1318,43,TRUE,2,High School,Urban,31632,1897920
+Bachelor,12,Suburban,Engineer,31,Male,71973.49636,adult,18-01-2071,12-08-2027,1319,43,TRUE,2,Bachelor,Urban,31656,1899360
+High School,3,Rural,Manager,23,Female,53944.64205,young,19-02-2071,13-08-2027,1320,43,FALSE,2,Master,Suburban,31680,1900800
+PhD,29,Urban,Analyst,32,Male,146650.406,adult,23-03-2071,14-08-2027,1321,43,TRUE,2,High School,Rural,31704,1902240
+Master,8,Suburban,Engineer,52,Male,114297.2336,elder,24-04-2071,15-08-2027,1322,43,FALSE,2,High School,Urban,31728,1903680
+Bachelor,20,Suburban,Director,59,Female,118490.0356,elder,26-05-2071,16-08-2027,1323,43,TRUE,2,High School,Suburban,31752,1905120
+PhD,21,Rural,Director,20,Male,150741.9024,young,27-06-2071,17-08-2027,1324,43,TRUE,2,Master,Suburban,31776,1906560
+High School,10,Rural,Director,43,Female,64375.91266,senior,29-07-2071,18-08-2027,1325,43,FALSE,2,Bachelor,Rural,31800,1908000
+Bachelor,24,Urban,Director,27,Male,117826.5765,young,30-08-2071,19-08-2027,1326,43,TRUE,2,PhD,Rural,31824,1909440
+Master,1,Suburban,Manager,21,Male,111214.9424,young,01-10-2071,20-08-2027,1327,43,FALSE,2,High School,Urban,31848,1910880
+High School,17,Rural,Engineer,54,Female,77809.4667,elder,02-11-2071,21-08-2027,1328,43,TRUE,2,High School,Suburban,31872,1912320
+High School,18,Urban,Manager,33,Female,96893.75908,adult,04-12-2071,22-08-2027,1329,43,TRUE,2,High School,Rural,31896,1913760
+High School,9,Suburban,Analyst,50,Male,60380.71644,FALSE,05-01-2072,23-08-2027,1330,43,FALSE,2,High School,Urban,31920,1915200
+Master,20,Suburban,Engineer,41,Female,127046.0047,senior,06-02-2072,24-08-2027,1331,43,TRUE,2,Bachelor,Suburban,31944,1916640
+Bachelor,22,Rural,Engineer,37,Male,120814.6071,senior,09-03-2072,25-08-2027,1332,43,TRUE,2,PhD,Suburban,31968,1918080
+PhD,27,Suburban,Engineer,43,Female,136061.3808,senior,10-04-2072,26-08-2027,1333,43,TRUE,2,Master,Rural,31992,1919520
+High School,16,Suburban,Analyst,55,Male,58368.84205,elder,12-05-2072,27-08-2027,1334,43,TRUE,2,Master,Suburban,32016,1920960
+High School,17,Rural,Manager,53,Male,92184.82926,elder,13-06-2072,28-08-2027,1335,43,TRUE,2,Bachelor,Suburban,32040,1922400
+High School,18,Suburban,Engineer,26,Male,75354.64525,young,15-07-2072,29-08-2027,1336,43,TRUE,2,High School,Rural,32064,1923840
+High School,11,Suburban,Engineer,44,Female,67123.07688,senior,16-08-2072,30-08-2027,1337,43,TRUE,2,Bachelor,Suburban,32088,1925280
+Bachelor,18,Urban,Director,54,Female,121923.7433,elder,17-09-2072,31-08-2027,1338,43,TRUE,2,Bachelor,Suburban,32112,1926720
+PhD,4,Suburban,Analyst,60,Female,107455.1349,elder,19-10-2072,01-09-2027,1339,44,FALSE,2,Bachelor,Urban,32136,1928160
+Master,8,Rural,Director,58,Female,107652.0472,elder,20-11-2072,02-09-2027,1340,44,FALSE,2,PhD,Suburban,32160,1929600
+Master,10,Suburban,Director,29,Female,117228.5249,adult,22-12-2072,03-09-2027,1341,44,FALSE,2,PhD,Rural,32184,1931040
+Bachelor,4,Rural,Manager,44,Male,96459.46257,senior,23-01-2073,04-09-2027,1342,44,FALSE,2,Bachelor,Suburban,32208,1932480
+High School,8,Rural,Director,49,Female,63633.59335,senior,24-02-2073,05-09-2027,1343,44,FALSE,2,Bachelor,Rural,32232,1933920
+Bachelor,17,Suburban,Analyst,25,Female,91986.54646,young,28-03-2073,06-09-2027,1344,44,TRUE,2,PhD,Rural,32256,1935360
+Bachelor,3,Rural,Analyst,45,Female,62423.1254,senior,29-04-2073,07-09-2027,1345,44,FALSE,2,Bachelor,Suburban,32280,1936800
+Bachelor,5,Urban,Engineer,24,Female,81466.33111,young,31-05-2073,08-09-2027,1346,44,FALSE,2,PhD,Rural,32304,1938240
+PhD,27,Rural,Manager,58,Female,154429.5098,elder,02-07-2073,09-09-2027,1347,44,TRUE,2,PhD,Urban,32328,1939680
+PhD,5,Urban,Engineer,20,Female,133439.8891,young,03-08-2073,10-09-2027,1348,44,FALSE,2,Master,Rural,32352,1941120
+Bachelor,7,Rural,Director,34,Female,100429.7654,adult,04-09-2073,11-09-2027,1349,44,FALSE,2,Master,Urban,32376,1942560
+Bachelor,1,Suburban,Engineer,29,Female,57268.80338,adult,06-10-2073,12-09-2027,1350,44,FALSE,2,PhD,Rural,32400,1944000
+PhD,18,Rural,Analyst,56,Female,138709.6471,elder,07-11-2073,13-09-2027,1351,44,TRUE,2,Bachelor,Suburban,32424,1945440
+Bachelor,24,Rural,Analyst,48,Female,102101.9652,senior,09-12-2073,14-09-2027,1352,44,TRUE,2,Bachelor,Rural,32448,1946880
+PhD,23,Rural,Director,35,Female,153914.3683,senior,10-01-2074,15-09-2027,1353,44,TRUE,2,Bachelor,Rural,32472,1948320
+PhD,22,Urban,Engineer,22,Male,142102.5782,young,11-02-2074,16-09-2027,1354,44,TRUE,2,Master,Rural,32496,1949760
+Master,6,Urban,Analyst,56,Male,119014.4921,elder,15-03-2074,17-09-2027,1355,44,FALSE,2,High School,Urban,32520,1951200
+Master,24,Urban,Analyst,27,Female,128472.2427,young,16-04-2074,18-09-2027,1356,44,TRUE,2,PhD,Urban,32544,1952640
+PhD,28,Urban,Manager,37,Female,157707.056,senior,18-05-2074,19-09-2027,1357,44,TRUE,2,High School,Urban,32568,1954080
+Bachelor,20,Urban,Engineer,51,Male,97076.61324,elder,19-06-2074,20-09-2027,1358,44,TRUE,2,High School,Urban,32592,1955520
+Bachelor,15,Suburban,Engineer,63,Female,88064.62889,elder,21-07-2074,21-09-2027,1359,44,TRUE,2,Bachelor,Urban,32616,1956960
+Bachelor,28,Rural,Manager,61,Female,119772.3205,elder,22-08-2074,22-09-2027,1360,44,TRUE,2,High School,Suburban,32640,1958400
+Master,23,Rural,Analyst,35,Male,118399.9178,senior,23-09-2074,23-09-2027,1361,44,TRUE,2,Bachelor,Rural,32664,1959840
+High School,9,Suburban,Manager,48,Male,57865.76989,senior,25-10-2074,24-09-2027,1362,44,FALSE,2,High School,Rural,32688,1961280
+PhD,25,Suburban,Manager,62,Male,154646.424,elder,26-11-2074,25-09-2027,1363,44,TRUE,2,PhD,Suburban,32712,1962720
+High School,29,Suburban,Manager,51,Female,102641.2133,elder,28-12-2074,26-09-2027,1364,44,TRUE,2,Master,Suburban,32736,1964160
+High School,3,Suburban,Analyst,42,Female,37935.36834,senior,29-01-2075,27-09-2027,1365,44,FALSE,2,Master,Suburban,32760,1965600
+Bachelor,27,Urban,Director,43,Male,126970.3525,senior,02-03-2075,28-09-2027,1366,44,TRUE,2,Bachelor,Suburban,32784,1967040
+High School,18,Rural,Director,24,Female,70229.56394,young,03-04-2075,29-09-2027,1367,44,TRUE,2,High School,Urban,32808,1968480
+Bachelor,29,Suburban,Director,20,Female,125294.9284,young,05-05-2075,30-09-2027,1368,44,TRUE,2,High School,Rural,32832,1969920
+High School,16,Suburban,Manager,37,Female,60167.65498,senior,06-06-2075,01-10-2027,1369,45,TRUE,2,High School,Suburban,32856,1971360
+PhD,17,Rural,Director,26,Female,140182.5448,young,08-07-2075,02-10-2027,1370,45,TRUE,2,High School,Suburban,32880,1972800
+Master,9,Suburban,Engineer,24,Female,97889.34086,young,09-08-2075,03-10-2027,1371,45,FALSE,2,High School,Rural,32904,1974240
+Master,28,Urban,Director,31,Male,140911.5018,adult,10-09-2075,04-10-2027,1372,45,TRUE,2,PhD,Suburban,32928,1975680
+Bachelor,24,Urban,Analyst,52,Male,113515.2802,elder,12-10-2075,05-10-2027,1373,45,TRUE,2,Master,Urban,32952,1977120
+High School,13,Urban,Manager,36,Male,88355.1057,senior,13-11-2075,06-10-2027,1374,45,TRUE,2,Bachelor,Urban,32976,1978560
+High School,8,Suburban,Manager,22,Male,69004.3114,young,15-12-2075,07-10-2027,1375,45,FALSE,2,High School,Urban,33000,1980000
+High School,13,Rural,Director,30,Male,73669.22159,adult,16-01-2076,08-10-2027,1376,45,TRUE,2,Master,Suburban,33024,1981440
+High School,1,Suburban,Manager,59,Male,63612.23683,elder,17-02-2076,09-10-2027,1377,45,FALSE,2,PhD,Rural,33048,1982880
+High School,21,Rural,Manager,58,Male,70708.87032,elder,20-03-2076,10-10-2027,1378,45,TRUE,2,PhD,Suburban,33072,1984320
+PhD,12,Urban,Manager,59,Male,151730.8,elder,21-04-2076,11-10-2027,1379,45,TRUE,2,PhD,Rural,33096,1985760
+Master,12,Urban,Manager,20,Male,141967.66,young,23-05-2076,12-10-2027,1380,45,TRUE,2,PhD,Urban,33120,1987200
+Bachelor,9,Rural,Engineer,29,Female,89531.99898,adult,24-06-2076,13-10-2027,1381,45,FALSE,2,High School,Urban,33144,1988640
+High School,1,Suburban,Analyst,31,Male,54316.90346,adult,26-07-2076,14-10-2027,1382,45,FALSE,2,Master,Rural,33168,1990080
+Master,21,Suburban,Engineer,64,Female,114343.7122,elder,27-08-2076,15-10-2027,1383,45,TRUE,2,Bachelor,Suburban,33192,1991520
+PhD,14,Suburban,Director,37,Female,144948.9371,senior,28-09-2076,16-10-2027,1384,45,TRUE,2,High School,Suburban,33216,1992960
+PhD,29,Urban,Director,56,Male,186452.8457,elder,30-10-2076,17-10-2027,1385,45,TRUE,2,PhD,Suburban,33240,1994400
+PhD,14,Suburban,Manager,61,Male,133240.6439,elder,01-12-2076,18-10-2027,1386,45,TRUE,2,PhD,Urban,33264,1995840
+PhD,6,Rural,Manager,25,Male,141610.9856,young,02-01-2077,19-10-2027,1387,45,FALSE,2,PhD,Suburban,33288,1997280
+High School,16,Suburban,Director,61,Male,79684.60758,elder,03-02-2077,20-10-2027,1388,45,TRUE,2,PhD,Rural,33312,1998720
+Master,8,Suburban,Manager,58,Female,110037.6835,elder,07-03-2077,21-10-2027,1389,45,FALSE,2,High School,Suburban,33336,2000160
+Bachelor,19,Rural,Engineer,56,Male,71859.43407,elder,08-04-2077,22-10-2027,1390,45,TRUE,2,Master,Suburban,33360,2001600
+High School,5,Rural,Manager,24,Female,66592.34201,young,10-05-2077,23-10-2027,1391,45,FALSE,2,Bachelor,Rural,33384,2003040
+PhD,15,Urban,Engineer,31,Male,122362.7238,adult,11-06-2077,24-10-2027,1392,45,TRUE,2,Master,Rural,33408,2004480
+PhD,13,Urban,Analyst,59,Male,144650.4941,elder,13-07-2077,25-10-2027,1393,45,TRUE,2,Master,Urban,33432,2005920
+PhD,26,Suburban,Engineer,49,Female,145122.7227,senior,14-08-2077,26-10-2027,1394,45,TRUE,2,Bachelor,Urban,33456,2007360
+PhD,24,Suburban,Director,63,Male,164373.9675,elder,15-09-2077,27-10-2027,1395,45,TRUE,2,PhD,Suburban,33480,2008800
+High School,6,Urban,Director,31,Female,88826.78449,adult,17-10-2077,28-10-2027,1396,45,FALSE,2,PhD,Suburban,33504,2010240
+Master,17,Suburban,Director,62,Female,121074.5919,elder,18-11-2077,29-10-2027,1397,45,TRUE,2,High School,Urban,33528,2011680
+Bachelor,5,Suburban,Engineer,52,Female,81241.18288,elder,20-12-2077,30-10-2027,1398,45,FALSE,2,High School,Suburban,33552,2013120
+Master,10,Rural,Analyst,21,Female,113370.8069,young,21-01-2078,31-10-2027,1399,45,FALSE,2,Master,Suburban,33576,2014560
+Master,5,Suburban,Director,64,Female,120085.5493,elder,22-02-2078,01-11-2027,1400,46,FALSE,2,Bachelor,Rural,33600,2016000
+Bachelor,17,Rural,Manager,54,Female,86829.83798,elder,26-03-2078,02-11-2027,1401,46,TRUE,2,Bachelor,Suburban,33624,2017440
+PhD,19,Urban,Engineer,62,Female,120476.5734,elder,27-04-2078,03-11-2027,1402,46,TRUE,2,High School,Rural,33648,2018880
+PhD,6,Suburban,Analyst,62,Female,108866.7301,elder,29-05-2078,04-11-2027,1403,46,FALSE,2,PhD,Urban,33672,2020320
+High School,22,Rural,Engineer,64,Male,54377.71102,elder,30-06-2078,05-11-2027,1404,46,TRUE,2,High School,Suburban,33696,2021760
+High School,15,Rural,Engineer,30,Female,73305.17369,adult,01-08-2078,06-11-2027,1405,46,TRUE,2,Master,Rural,33720,2023200
+Master,4,Rural,Analyst,62,Female,96811.67266,elder,02-09-2078,07-11-2027,1406,46,FALSE,2,High School,Rural,33744,2024640
+Bachelor,17,Rural,Engineer,60,Male,78243.18173,elder,04-10-2078,08-11-2027,1407,46,TRUE,2,PhD,Rural,33768,2026080
+Bachelor,1,Suburban,Director,59,Female,102139.8131,elder,05-11-2078,09-11-2027,1408,46,FALSE,2,Bachelor,Rural,33792,2027520
+High School,18,Urban,Analyst,35,Female,67235.45347,senior,07-12-2078,10-11-2027,1409,46,TRUE,2,Master,Suburban,33816,2028960
+PhD,26,Rural,Engineer,46,Female,135543.8572,senior,08-01-2079,11-11-2027,1410,46,TRUE,2,PhD,Urban,33840,2030400
+High School,10,Urban,Manager,61,Female,83719.55552,elder,09-02-2079,12-11-2027,1411,46,FALSE,2,Master,Rural,33864,2031840
+Master,19,Rural,Analyst,60,Female,99560.39991,elder,13-03-2079,13-11-2027,1412,46,TRUE,2,Bachelor,Urban,33888,2033280
+High School,2,Rural,Manager,64,Male,66182.03349,elder,14-04-2079,14-11-2027,1413,46,FALSE,2,High School,Rural,33912,2034720
+PhD,17,Rural,Engineer,36,Female,110142.7195,senior,16-05-2079,15-11-2027,1414,46,TRUE,2,High School,Rural,33936,2036160
+Bachelor,18,Urban,Manager,63,Male,109174.7499,elder,17-06-2079,16-11-2027,1415,46,TRUE,2,Bachelor,Rural,33960,2037600
+Master,13,Urban,Analyst,48,Female,107650.4798,senior,19-07-2079,17-11-2027,1416,46,TRUE,2,High School,Urban,33984,2039040
+PhD,7,Urban,Engineer,20,Male,106536.0686,young,20-08-2079,18-11-2027,1417,46,FALSE,2,High School,Urban,34008,2040480
+Master,29,Suburban,Analyst,64,Female,100903.0981,elder,21-09-2079,19-11-2027,1418,46,TRUE,2,Master,Urban,34032,2041920
+Bachelor,20,Urban,Engineer,22,Male,81404.76394,young,23-10-2079,20-11-2027,1419,46,TRUE,2,High School,Suburban,34056,2043360
+High School,5,Suburban,Director,42,Male,84143.06834,senior,24-11-2079,21-11-2027,1420,46,FALSE,2,High School,Urban,34080,2044800
+High School,4,Suburban,Director,44,Male,80239.59627,senior,26-12-2079,22-11-2027,1421,46,FALSE,2,Bachelor,Suburban,34104,2046240
+Bachelor,7,Urban,Director,64,Female,109739.5758,elder,27-01-2080,23-11-2027,1422,46,FALSE,2,PhD,Suburban,34128,2047680
+High School,5,Rural,Manager,39,Male,51736.21507,senior,28-02-2080,24-11-2027,1423,46,FALSE,2,Bachelor,Urban,34152,2049120
+High School,19,Rural,Manager,50,Male,90389.73811,FALSE,31-03-2080,25-11-2027,1424,46,TRUE,2,Bachelor,Rural,34176,2050560
+Master,20,Suburban,Director,33,Male,144828.4122,adult,02-05-2080,26-11-2027,1425,46,TRUE,2,Bachelor,Rural,34200,2052000
+High School,7,Rural,Analyst,27,Female,44330.36965,young,03-06-2080,27-11-2027,1426,46,FALSE,2,Bachelor,Suburban,34224,2053440
+High School,13,Rural,Analyst,39,Male,69760.60276,senior,05-07-2080,28-11-2027,1427,46,TRUE,2,PhD,Rural,34248,2054880
+Bachelor,4,Suburban,Engineer,55,Male,76490.77603,elder,06-08-2080,29-11-2027,1428,46,FALSE,2,Bachelor,Rural,34272,2056320
+PhD,15,Urban,Analyst,49,Female,112237.9498,senior,07-09-2080,30-11-2027,1429,46,TRUE,2,Master,Suburban,34296,2057760
+Bachelor,20,Suburban,Analyst,40,Male,73673.05234,senior,09-10-2080,01-12-2027,1430,47,TRUE,2,High School,Urban,34320,2059200
+Bachelor,29,Urban,Manager,28,Female,126337.2349,adult,10-11-2080,02-12-2027,1431,47,TRUE,2,Master,Suburban,34344,2060640
+Bachelor,25,Urban,Analyst,30,Female,98959.51189,adult,12-12-2080,03-12-2027,1432,47,TRUE,2,High School,Urban,34368,2062080
+Bachelor,18,Suburban,Analyst,61,Female,96812.24946,elder,13-01-2081,04-12-2027,1433,47,TRUE,2,PhD,Urban,34392,2063520
+PhD,4,Rural,Engineer,54,Male,113116.2688,elder,14-02-2081,05-12-2027,1434,47,FALSE,2,PhD,Suburban,34416,2064960
+Bachelor,28,Urban,Director,31,Female,130676.7089,adult,18-03-2081,06-12-2027,1435,47,TRUE,2,Bachelor,Rural,34440,2066400
+Master,4,Suburban,Director,28,Male,140235.2642,adult,19-04-2081,07-12-2027,1436,47,FALSE,2,PhD,Urban,34464,2067840
+High School,2,Suburban,Manager,41,Female,80968.49088,senior,21-05-2081,08-12-2027,1437,47,FALSE,2,High School,Suburban,34488,2069280
+Master,22,Suburban,Manager,24,Male,122671.7273,young,22-06-2081,09-12-2027,1438,47,TRUE,2,PhD,Suburban,34512,2070720
+High School,20,Urban,Engineer,27,Female,83749.68725,young,24-07-2081,10-12-2027,1439,47,TRUE,2,Master,Suburban,34536,2072160
+PhD,23,Rural,Manager,41,Male,147944.4544,senior,25-08-2081,11-12-2027,1440,47,TRUE,2,High School,Urban,34560,2073600
+PhD,28,Rural,Engineer,42,Male,145613.9117,senior,26-09-2081,12-12-2027,1441,47,TRUE,2,PhD,Rural,34584,2075040
+Bachelor,5,Suburban,Director,26,Female,100710.0881,young,28-10-2081,13-12-2027,1442,47,FALSE,2,PhD,Rural,34608,2076480
+PhD,25,Urban,Director,39,Male,160064.6815,senior,29-11-2081,14-12-2027,1443,47,TRUE,2,PhD,Suburban,34632,2077920
+High School,22,Rural,Engineer,63,Male,71963.77183,elder,31-12-2081,15-12-2027,1444,47,TRUE,2,High School,Urban,34656,2079360
+PhD,8,Suburban,Director,26,Male,138197.1289,young,01-02-2082,16-12-2027,1445,47,FALSE,2,Bachelor,Rural,34680,2080800
+Master,11,Rural,Analyst,52,Female,112833.6728,elder,05-03-2082,17-12-2027,1446,47,TRUE,2,PhD,Suburban,34704,2082240
+High School,11,Rural,Analyst,57,Female,68407.26239,elder,06-04-2082,18-12-2027,1447,47,TRUE,2,PhD,Rural,34728,2083680
+PhD,18,Urban,Director,42,Female,155963.8498,senior,08-05-2082,19-12-2027,1448,47,TRUE,2,Master,Rural,34752,2085120
+PhD,27,Suburban,Engineer,61,Male,146282.9226,elder,09-06-2082,20-12-2027,1449,47,TRUE,2,Bachelor,Urban,34776,2086560
+PhD,25,Rural,Analyst,41,Female,128345.4074,senior,11-07-2082,21-12-2027,1450,47,TRUE,2,PhD,Suburban,34800,2088000
+High School,19,Rural,Analyst,31,Female,75932.41136,adult,12-08-2082,22-12-2027,1451,47,TRUE,2,PhD,Rural,34824,2089440
+Bachelor,17,Urban,Director,63,Female,127488.8052,elder,13-09-2082,23-12-2027,1452,47,TRUE,2,Bachelor,Rural,34848,2090880
+PhD,1,Urban,Manager,23,Female,136686.1083,young,15-10-2082,24-12-2027,1453,47,FALSE,2,Bachelor,Urban,34872,2092320
+PhD,5,Rural,Manager,52,Female,133712.6427,elder,16-11-2082,25-12-2027,1454,47,FALSE,2,High School,Urban,34896,2093760
+Master,3,Urban,Director,49,Male,129605.7081,senior,18-12-2082,26-12-2027,1455,47,FALSE,2,High School,Rural,34920,2095200
+Bachelor,28,Urban,Director,41,Female,139740.6185,senior,19-01-2083,27-12-2027,1456,47,TRUE,2,PhD,Urban,34944,2096640
+PhD,14,Suburban,Analyst,37,Female,129311.3137,senior,20-02-2083,28-12-2027,1457,47,TRUE,2,Master,Urban,34968,2098080
+PhD,2,Suburban,Engineer,25,Male,118519.0053,young,24-03-2083,29-12-2027,1458,47,FALSE,2,High School,Suburban,34992,2099520
+Bachelor,28,Rural,Engineer,47,Female,92227.74376,senior,25-04-2083,30-12-2027,1459,47,TRUE,2,High School,Suburban,35016,2100960
+Bachelor,3,Rural,Analyst,21,Male,52282.49263,young,27-05-2083,31-12-2027,1460,47,FALSE,2,PhD,Rural,35040,2102400
+High School,3,Rural,Analyst,53,Male,47721.51619,elder,28-06-2083,01-01-2028,1461,48,FALSE,2,Master,Rural,35064,2103840
+High School,20,Urban,Engineer,60,Female,72589.44467,elder,30-07-2083,02-01-2028,1462,48,TRUE,2,Bachelor,Rural,35088,2105280
+PhD,21,Suburban,Manager,63,Female,146600.0907,elder,31-08-2083,03-01-2028,1463,48,TRUE,2,Master,Urban,35112,2106720
+Master,27,Rural,Manager,59,Male,138404.8842,elder,02-10-2083,04-01-2028,1464,48,TRUE,2,PhD,Suburban,35136,2108160
+High School,13,Suburban,Engineer,63,Male,69728.24675,elder,03-11-2083,05-01-2028,1465,48,TRUE,2,Master,Rural,35160,2109600
+High School,8,Urban,Director,57,Female,83849.98329,elder,05-12-2083,06-01-2028,1466,48,FALSE,2,PhD,Suburban,35184,2111040
+PhD,22,Suburban,Director,50,Male,148468.7138,FALSE,06-01-2084,07-01-2028,1467,48,TRUE,2,PhD,Urban,35208,2112480
+Master,14,Urban,Analyst,38,Male,94698.64793,senior,07-02-2084,08-01-2028,1468,48,TRUE,2,High School,Suburban,35232,2113920
+Bachelor,18,Rural,Manager,35,Male,111328.0534,senior,10-03-2084,09-01-2028,1469,48,TRUE,2,PhD,Urban,35256,2115360
+Master,27,Urban,Director,60,Male,129233.0898,elder,11-04-2084,10-01-2028,1470,48,TRUE,2,Master,Rural,35280,2116800
+PhD,20,Urban,Director,49,Male,150652.1697,senior,13-05-2084,11-01-2028,1471,48,TRUE,2,Master,Urban,35304,2118240
+Master,13,Urban,Director,24,Male,109867.9807,young,14-06-2084,12-01-2028,1472,48,TRUE,2,High School,Urban,35328,2119680
+PhD,18,Urban,Engineer,62,Male,134838.5842,elder,16-07-2084,13-01-2028,1473,48,TRUE,2,PhD,Urban,35352,2121120
+PhD,1,Rural,Analyst,40,Male,102577.1544,senior,17-08-2084,14-01-2028,1474,48,FALSE,2,Master,Urban,35376,2122560
+High School,2,Suburban,Analyst,36,Male,47957.05579,senior,18-09-2084,15-01-2028,1475,48,FALSE,2,Bachelor,Rural,35400,2124000
+PhD,5,Rural,Manager,41,Female,124368.701,senior,20-10-2084,16-01-2028,1476,48,FALSE,2,High School,Suburban,35424,2125440
+Master,11,Rural,Director,22,Female,112787.3493,young,21-11-2084,17-01-2028,1477,48,TRUE,2,PhD,Rural,35448,2126880
+Master,11,Urban,Analyst,40,Male,96863.4436,senior,23-12-2084,18-01-2028,1478,48,TRUE,2,Bachelor,Rural,35472,2128320
+High School,1,Rural,Engineer,44,Male,69178.26413,senior,24-01-2085,19-01-2028,1479,48,FALSE,2,Master,Urban,35496,2129760
+PhD,29,Urban,Engineer,63,Female,145659.3705,elder,25-02-2085,20-01-2028,1480,48,TRUE,2,Bachelor,Rural,35520,2131200
+Master,27,Suburban,Engineer,40,Female,131076.5862,senior,29-03-2085,21-01-2028,1481,48,TRUE,2,Bachelor,Urban,35544,2132640
+Bachelor,3,Urban,Director,35,Male,94632.28957,senior,30-04-2085,22-01-2028,1482,48,FALSE,2,High School,Suburban,35568,2134080
+High School,29,Suburban,Engineer,53,Female,100127.2859,elder,01-06-2085,23-01-2028,1483,48,TRUE,2,Bachelor,Urban,35592,2135520
+PhD,2,Rural,Director,44,Male,147141.8213,senior,03-07-2085,24-01-2028,1484,48,FALSE,2,Bachelor,Suburban,35616,2136960
+Bachelor,14,Urban,Analyst,44,Male,91310.18682,senior,04-08-2085,25-01-2028,1485,48,TRUE,2,PhD,Rural,35640,2138400
+Master,20,Suburban,Engineer,60,Male,104004.6841,elder,05-09-2085,26-01-2028,1486,48,TRUE,2,Bachelor,Urban,35664,2139840
+Bachelor,16,Rural,Director,47,Male,106870.0139,senior,07-10-2085,27-01-2028,1487,48,TRUE,2,PhD,Suburban,35688,2141280
+Bachelor,18,Suburban,Manager,23,Female,103473.045,young,08-11-2085,28-01-2028,1488,48,TRUE,2,Master,Rural,35712,2142720
+High School,5,Urban,Analyst,39,Male,62396.23914,senior,10-12-2085,29-01-2028,1489,48,FALSE,2,High School,Suburban,35736,2144160
+Bachelor,8,Suburban,Analyst,32,Male,68217.79384,adult,11-01-2086,30-01-2028,1490,48,FALSE,2,Bachelor,Urban,35760,2145600
+Bachelor,22,Suburban,Director,64,Female,101769.9986,elder,12-02-2086,31-01-2028,1491,48,TRUE,2,Bachelor,Suburban,35784,2147040
+PhD,7,Suburban,Director,30,Male,143623.6304,adult,16-03-2086,01-02-2028,1492,49,FALSE,2,PhD,Suburban,35808,2148480
+Bachelor,10,Rural,Analyst,29,Male,74897.08684,adult,17-04-2086,02-02-2028,1493,49,FALSE,2,PhD,Suburban,35832,2149920
+PhD,16,Suburban,Director,48,Male,151020.7502,senior,19-05-2086,03-02-2028,1494,49,TRUE,2,High School,Rural,35856,2151360
+Master,19,Suburban,Engineer,51,Male,124268.0058,elder,20-06-2086,04-02-2028,1495,49,TRUE,2,Bachelor,Suburban,35880,2152800
+High School,22,Suburban,Director,43,Female,82248.39517,senior,22-07-2086,05-02-2028,1496,49,TRUE,2,Master,Suburban,35904,2154240
+Bachelor,29,Suburban,Analyst,33,Male,109106.9372,adult,23-08-2086,06-02-2028,1497,49,TRUE,2,High School,Suburban,35928,2155680
+Bachelor,11,Urban,Engineer,25,Male,83567.7246,young,24-09-2086,07-02-2028,1498,49,TRUE,2,Bachelor,Suburban,35952,2157120
+PhD,19,Urban,Director,60,Female,155047.7793,elder,26-10-2086,08-02-2028,1499,49,TRUE,2,Master,Urban,35976,2158560
+PhD,3,Rural,Engineer,27,Male,104742.2064,young,27-11-2086,09-02-2028,1500,49,FALSE,2,Bachelor,Urban,36000,2160000
+High School,18,Suburban,Director,61,Male,93896.19858,elder,29-12-2086,10-02-2028,1501,49,TRUE,2,Master,Rural,36024,2161440
+Bachelor,4,Rural,Analyst,36,Male,49941.82125,senior,30-01-2087,11-02-2028,1502,49,FALSE,2,Bachelor,Suburban,36048,2162880
+Master,25,Suburban,Analyst,59,Female,109319.1428,elder,03-03-2087,12-02-2028,1503,49,TRUE,2,PhD,Rural,36072,2164320
+High School,20,Urban,Engineer,55,Female,74842.43455,elder,04-04-2087,13-02-2028,1504,49,TRUE,2,Master,Suburban,36096,2165760
+Bachelor,17,Suburban,Analyst,62,Female,99639.30202,elder,06-05-2087,14-02-2028,1505,49,TRUE,2,PhD,Urban,36120,2167200
+Master,24,Rural,Analyst,48,Male,110506.9814,senior,07-06-2087,15-02-2028,1506,49,TRUE,2,Bachelor,Suburban,36144,2168640
+Bachelor,13,Suburban,Engineer,37,Female,94955.18311,senior,09-07-2087,16-02-2028,1507,49,TRUE,2,Master,Rural,36168,2170080
+Master,4,Urban,Engineer,57,Female,104059.3881,elder,10-08-2087,17-02-2028,1508,49,FALSE,2,PhD,Suburban,36192,2171520
+Bachelor,14,Rural,Analyst,21,Male,68510.99629,young,11-09-2087,18-02-2028,1509,49,TRUE,2,Master,Urban,36216,2172960
+PhD,25,Suburban,Engineer,37,Female,149072.0487,senior,13-10-2087,19-02-2028,1510,49,TRUE,2,Master,Rural,36240,2174400
+Master,3,Urban,Engineer,50,Male,94545.58658,FALSE,14-11-2087,20-02-2028,1511,49,FALSE,2,Master,Suburban,36264,2175840
+PhD,21,Suburban,Director,54,Male,150737.5666,elder,16-12-2087,21-02-2028,1512,49,TRUE,2,High School,Urban,36288,2177280
+Bachelor,4,Urban,Manager,23,Male,95820.99779,young,17-01-2088,22-02-2028,1513,49,FALSE,2,PhD,Suburban,36312,2178720
+Master,18,Rural,Analyst,53,Male,112455.3879,elder,18-02-2088,23-02-2028,1514,49,TRUE,2,Master,Urban,36336,2180160
+PhD,13,Rural,Analyst,63,Male,115986.1546,elder,21-03-2088,24-02-2028,1515,49,TRUE,2,Master,Rural,36360,2181600
+Master,7,Suburban,Director,45,Female,137105.2473,senior,22-04-2088,25-02-2028,1516,49,FALSE,2,PhD,Rural,36384,2183040
+Master,11,Urban,Analyst,21,Male,100285.2158,young,24-05-2088,26-02-2028,1517,49,TRUE,2,Master,Suburban,36408,2184480
+Master,11,Rural,Analyst,54,Male,102655.8929,elder,25-06-2088,27-02-2028,1518,49,TRUE,2,Master,Urban,36432,2185920
+High School,6,Suburban,Analyst,59,Male,56036.16301,elder,27-07-2088,28-02-2028,1519,49,FALSE,2,High School,Rural,36456,2187360
+PhD,11,Suburban,Engineer,60,Female,141466.7184,elder,28-08-2088,29-02-2028,1520,49,TRUE,2,Bachelor,Suburban,36480,2188800
+Master,9,Suburban,Analyst,38,Female,101144.0601,senior,29-09-2088,01-03-2028,1521,50,FALSE,2,High School,Suburban,36504,2190240
+Master,16,Urban,Analyst,61,Female,92226.87182,elder,31-10-2088,02-03-2028,1522,50,TRUE,2,PhD,Suburban,36528,2191680
+PhD,28,Suburban,Manager,41,Female,163883.3521,senior,02-12-2088,03-03-2028,1523,50,TRUE,2,Master,Urban,36552,2193120
+Master,5,Urban,Director,48,Male,124184.5149,senior,03-01-2089,04-03-2028,1524,50,FALSE,2,High School,Suburban,36576,2194560
+Master,20,Suburban,Director,21,Male,129469.3809,young,04-02-2089,05-03-2028,1525,50,TRUE,2,High School,Urban,36600,2196000
+High School,23,Urban,Engineer,61,Male,95229.64762,elder,08-03-2089,06-03-2028,1526,50,TRUE,2,Master,Suburban,36624,2197440
+Bachelor,6,Suburban,Analyst,58,Female,72686.91364,elder,09-04-2089,07-03-2028,1527,50,FALSE,2,PhD,Urban,36648,2198880
+High School,4,Suburban,Analyst,32,Male,59999.86743,adult,11-05-2089,08-03-2028,1528,50,FALSE,2,Bachelor,Suburban,36672,2200320
+PhD,8,Urban,Analyst,35,Male,115316.1668,senior,12-06-2089,09-03-2028,1529,50,FALSE,2,PhD,Suburban,36696,2201760
+Master,25,Rural,Analyst,48,Male,101638.6987,senior,14-07-2089,10-03-2028,1530,50,TRUE,2,Master,Urban,36720,2203200
+High School,25,Rural,Engineer,45,Female,93105.81761,senior,15-08-2089,11-03-2028,1531,50,TRUE,2,Master,Rural,36744,2204640
+High School,16,Rural,Manager,42,Female,68129.67263,senior,16-09-2089,12-03-2028,1532,50,TRUE,2,Bachelor,Rural,36768,2206080
+Master,16,Urban,Director,47,Male,130152.2906,senior,18-10-2089,13-03-2028,1533,50,TRUE,2,Bachelor,Rural,36792,2207520
+PhD,11,Rural,Manager,33,Female,113916.7921,adult,19-11-2089,14-03-2028,1534,50,TRUE,2,Master,Urban,36816,2208960
+Bachelor,20,Suburban,Analyst,53,Female,106299.8224,elder,21-12-2089,15-03-2028,1535,50,TRUE,2,PhD,Rural,36840,2210400
+PhD,14,Urban,Manager,34,Male,147979.9832,adult,22-01-2090,16-03-2028,1536,50,TRUE,2,Bachelor,Suburban,36864,2211840
+Master,8,Rural,Manager,28,Female,110377.7963,adult,23-02-2090,17-03-2028,1537,50,FALSE,2,Master,Urban,36888,2213280
+Master,25,Suburban,Director,24,Male,149751.3841,young,27-03-2090,18-03-2028,1538,50,TRUE,2,Bachelor,Rural,36912,2214720
+Bachelor,6,Suburban,Manager,41,Female,77706.63431,senior,28-04-2090,19-03-2028,1539,50,FALSE,2,PhD,Suburban,36936,2216160
+Bachelor,8,Urban,Manager,48,Female,92589.53218,senior,30-05-2090,20-03-2028,1540,50,FALSE,2,Master,Suburban,36960,2217600
+Master,19,Rural,Manager,42,Female,118085.6227,senior,01-07-2090,21-03-2028,1541,50,TRUE,2,PhD,Urban,36984,2219040
+PhD,8,Suburban,Engineer,34,Male,107515.2895,adult,02-08-2090,22-03-2028,1542,50,FALSE,2,High School,Rural,37008,2220480
+Bachelor,29,Rural,Engineer,20,Female,112114.2713,young,03-09-2090,23-03-2028,1543,50,TRUE,2,Bachelor,Suburban,37032,2221920
+Master,25,Suburban,Engineer,57,Male,119815.7095,elder,05-10-2090,24-03-2028,1544,50,TRUE,2,Bachelor,Rural,37056,2223360
+Bachelor,1,Suburban,Manager,29,Male,82767.11364,adult,06-11-2090,25-03-2028,1545,50,FALSE,2,Master,Suburban,37080,2224800
+PhD,13,Urban,Engineer,53,Female,135362.2549,elder,08-12-2090,26-03-2028,1546,50,TRUE,2,Master,Suburban,37104,2226240
+Master,8,Rural,Manager,60,Female,100474.1772,elder,09-01-2091,27-03-2028,1547,50,FALSE,2,High School,Urban,37128,2227680
+PhD,21,Suburban,Manager,60,Male,146451.13,elder,10-02-2091,28-03-2028,1548,50,TRUE,2,Master,Rural,37152,2229120
+High School,9,Rural,Engineer,27,Female,93275.38547,young,14-03-2091,29-03-2028,1549,50,FALSE,2,Bachelor,Suburban,37176,2230560
+Bachelor,16,Rural,Analyst,46,Male,87046.8203,senior,15-04-2091,30-03-2028,1550,50,TRUE,2,PhD,Rural,37200,2232000
+Bachelor,21,Rural,Manager,49,Male,117683.1106,senior,17-05-2091,31-03-2028,1551,50,TRUE,2,Master,Rural,37224,2233440
+Master,5,Urban,Manager,37,Male,111449.1688,senior,18-06-2091,01-04-2028,1552,51,FALSE,2,High School,Rural,37248,2234880
+Master,11,Suburban,Director,30,Female,118484.3101,adult,20-07-2091,02-04-2028,1553,51,TRUE,2,PhD,Urban,37272,2236320
+High School,17,Rural,Engineer,63,Female,70097.03589,elder,21-08-2091,03-04-2028,1554,51,TRUE,2,Bachelor,Suburban,37296,2237760
+Master,21,Urban,Director,53,Female,127582.9506,elder,22-09-2091,04-04-2028,1555,51,TRUE,2,Master,Rural,37320,2239200
+Bachelor,27,Rural,Manager,21,Female,83930.42235,young,24-10-2091,05-04-2028,1556,51,TRUE,2,High School,Urban,37344,2240640
+PhD,9,Urban,Director,58,Female,156315.9251,elder,25-11-2091,06-04-2028,1557,51,FALSE,2,Master,Rural,37368,2242080
+Master,17,Rural,Manager,39,Male,123413.3814,senior,27-12-2091,07-04-2028,1558,51,TRUE,2,Bachelor,Urban,37392,2243520
+High School,15,Rural,Director,49,Male,93338.51222,senior,28-01-2092,08-04-2028,1559,51,TRUE,2,Master,Rural,37416,2244960
+PhD,1,Rural,Manager,26,Female,121281.6987,young,29-02-2092,09-04-2028,1560,51,FALSE,2,Bachelor,Rural,37440,2246400
+Bachelor,21,Urban,Engineer,25,Male,120783.727,young,01-04-2092,10-04-2028,1561,51,TRUE,2,High School,Rural,37464,2247840
+Master,24,Urban,Director,24,Male,143126.7181,young,03-05-2092,11-04-2028,1562,51,TRUE,2,High School,Urban,37488,2249280
+High School,16,Suburban,Director,22,Male,85460.35259,young,04-06-2092,12-04-2028,1563,51,TRUE,2,Bachelor,Urban,37512,2250720
+Master,13,Suburban,Analyst,60,Male,72935.01285,elder,06-07-2092,13-04-2028,1564,51,TRUE,2,High School,Suburban,37536,2252160
+Bachelor,20,Urban,Analyst,60,Female,94528.34132,elder,07-08-2092,14-04-2028,1565,51,TRUE,2,Master,Suburban,37560,2253600
+Master,24,Suburban,Engineer,36,Female,127318.7779,senior,08-09-2092,15-04-2028,1566,51,TRUE,2,High School,Urban,37584,2255040
+Bachelor,24,Urban,Manager,27,Female,114068.612,young,10-10-2092,16-04-2028,1567,51,TRUE,2,PhD,Suburban,37608,2256480
+High School,3,Urban,Analyst,60,Male,69242.21734,elder,11-11-2092,17-04-2028,1568,51,FALSE,2,Bachelor,Urban,37632,2257920
+High School,28,Urban,Engineer,44,Female,110948.8117,senior,13-12-2092,18-04-2028,1569,51,TRUE,2,Master,Urban,37656,2259360
+Bachelor,14,Suburban,Engineer,43,Female,87266.49792,senior,14-01-2093,19-04-2028,1570,51,TRUE,2,High School,Urban,37680,2260800
+High School,3,Rural,Manager,42,Male,75312.5356,senior,15-02-2093,20-04-2028,1571,51,FALSE,2,Master,Suburban,37704,2262240
+Master,18,Suburban,Manager,61,Male,107141.4742,elder,19-03-2093,21-04-2028,1572,51,TRUE,2,PhD,Rural,37728,2263680
+High School,24,Rural,Director,26,Male,104313.191,young,20-04-2093,22-04-2028,1573,51,TRUE,2,High School,Suburban,37752,2265120
+PhD,28,Suburban,Director,34,Female,163634.9048,adult,22-05-2093,23-04-2028,1574,51,TRUE,2,High School,Rural,37776,2266560
+Bachelor,14,Rural,Engineer,59,Male,81786.09502,elder,23-06-2093,24-04-2028,1575,51,TRUE,2,Bachelor,Suburban,37800,2268000
+Master,17,Rural,Engineer,44,Male,105366.0108,senior,25-07-2093,25-04-2028,1576,51,TRUE,2,High School,Rural,37824,2269440
+High School,24,Urban,Engineer,51,Female,82436.96532,elder,26-08-2093,26-04-2028,1577,51,TRUE,2,Bachelor,Rural,37848,2270880
+Master,6,Suburban,Director,40,Male,117911.9709,senior,27-09-2093,27-04-2028,1578,51,FALSE,2,High School,Urban,37872,2272320
+PhD,26,Rural,Analyst,38,Male,132986.7297,senior,29-10-2093,28-04-2028,1579,51,TRUE,2,Master,Suburban,37896,2273760
+High School,8,Suburban,Manager,55,Female,71257.07866,elder,30-11-2093,29-04-2028,1580,51,FALSE,2,PhD,Rural,37920,2275200
+High School,2,Urban,Engineer,52,Male,50442.07521,elder,01-01-2094,30-04-2028,1581,51,FALSE,2,PhD,Suburban,37944,2276640
+Bachelor,18,Urban,Director,40,Male,122170.5389,senior,02-02-2094,01-05-2028,1582,52,TRUE,2,High School,Urban,37968,2278080
+High School,3,Rural,Director,44,Female,66921.32052,senior,06-03-2094,02-05-2028,1583,52,FALSE,2,Master,Urban,37992,2279520
+Bachelor,29,Urban,Manager,52,Male,129479.8661,elder,07-04-2094,03-05-2028,1584,52,TRUE,2,Bachelor,Rural,38016,2280960
+High School,21,Suburban,Analyst,47,Female,70661.73033,senior,09-05-2094,04-05-2028,1585,52,TRUE,2,PhD,Urban,38040,2282400
+Master,2,Urban,Engineer,64,Male,103270.2395,elder,10-06-2094,05-05-2028,1586,52,FALSE,2,PhD,Suburban,38064,2283840
+PhD,5,Urban,Manager,56,Female,114507.6809,elder,12-07-2094,06-05-2028,1587,52,FALSE,2,High School,Urban,38088,2285280
+PhD,22,Urban,Director,38,Male,149433.1987,senior,13-08-2094,07-05-2028,1588,52,TRUE,2,Master,Urban,38112,2286720
+High School,9,Urban,Analyst,42,Male,73396.14394,senior,14-09-2094,08-05-2028,1589,52,FALSE,2,High School,Urban,38136,2288160
+Master,29,Suburban,Engineer,54,Male,116661.8327,elder,16-10-2094,09-05-2028,1590,52,TRUE,2,Master,Urban,38160,2289600
+Bachelor,19,Suburban,Director,51,Female,108675.6234,elder,17-11-2094,10-05-2028,1591,52,TRUE,2,High School,Suburban,38184,2291040
+PhD,2,Rural,Director,38,Male,129220.6003,senior,19-12-2094,11-05-2028,1592,52,FALSE,2,PhD,Suburban,38208,2292480
+PhD,23,Urban,Manager,34,Male,166637.4259,adult,20-01-2095,12-05-2028,1593,52,TRUE,2,Master,Rural,38232,2293920
+High School,4,Rural,Director,27,Female,77741.37998,young,21-02-2095,13-05-2028,1594,52,FALSE,2,Master,Urban,38256,2295360
+Master,17,Rural,Engineer,31,Female,120102.646,adult,25-03-2095,14-05-2028,1595,52,TRUE,2,High School,Rural,38280,2296800
+High School,4,Suburban,Director,30,Male,76322.52202,adult,26-04-2095,15-05-2028,1596,52,FALSE,2,High School,Rural,38304,2298240
+Master,26,Urban,Manager,58,Male,138131.7626,elder,28-05-2095,16-05-2028,1597,52,TRUE,2,Master,Suburban,38328,2299680
+High School,6,Urban,Manager,61,Female,63967.56545,elder,29-06-2095,17-05-2028,1598,52,FALSE,2,Bachelor,Urban,38352,2301120
+PhD,2,Suburban,Analyst,42,Male,123780.3124,senior,31-07-2095,18-05-2028,1599,52,FALSE,2,PhD,Urban,38376,2302560
+Master,4,Suburban,Analyst,20,Female,95086.48204,young,01-09-2095,19-05-2028,1600,52,FALSE,2,Bachelor,Suburban,38400,2304000
+Master,8,Suburban,Director,54,Female,123441.291,elder,03-10-2095,20-05-2028,1601,52,FALSE,2,Bachelor,Suburban,38424,2305440
+High School,2,Urban,Director,37,Male,85383.15539,senior,04-11-2095,21-05-2028,1602,52,FALSE,2,Bachelor,Suburban,38448,2306880
+High School,2,Rural,Director,62,Female,86467.92074,elder,06-12-2095,22-05-2028,1603,52,FALSE,2,High School,Urban,38472,2308320
+Master,8,Rural,Analyst,26,Male,90855.04894,young,07-01-2096,23-05-2028,1604,52,FALSE,2,Master,Rural,38496,2309760
+Bachelor,26,Urban,Analyst,23,Male,117630.3896,young,08-02-2096,24-05-2028,1605,52,TRUE,2,Bachelor,Rural,38520,2311200
+PhD,5,Rural,Director,60,Male,126484.7742,elder,11-03-2096,25-05-2028,1606,52,FALSE,2,Bachelor,Urban,38544,2312640
+Bachelor,14,Urban,Analyst,47,Male,93221.84608,senior,12-04-2096,26-05-2028,1607,52,TRUE,2,PhD,Rural,38568,2314080
+Bachelor,13,Urban,Manager,32,Male,123092.1856,adult,14-05-2096,27-05-2028,1608,52,TRUE,2,PhD,Urban,38592,2315520
+Bachelor,19,Suburban,Analyst,59,Male,84101.85269,elder,15-06-2096,28-05-2028,1609,52,TRUE,2,Bachelor,Urban,38616,2316960
+High School,28,Urban,Manager,41,Female,100452.5585,senior,17-07-2096,29-05-2028,1610,52,TRUE,2,PhD,Suburban,38640,2318400
+Master,1,Suburban,Director,45,Female,124775.0506,senior,18-08-2096,30-05-2028,1611,52,FALSE,2,Bachelor,Urban,38664,2319840
+Bachelor,12,Suburban,Manager,20,Male,95621.00301,young,19-09-2096,31-05-2028,1612,52,TRUE,2,PhD,Suburban,38688,2321280
+Bachelor,20,Rural,Engineer,63,Female,74996.46724,elder,21-10-2096,01-06-2028,1613,53,TRUE,2,Master,Suburban,38712,2322720
+PhD,3,Suburban,Director,54,Male,127440.4064,elder,22-11-2096,02-06-2028,1614,53,FALSE,2,High School,Rural,38736,2324160
+PhD,14,Rural,Manager,21,Male,139809.3259,young,24-12-2096,03-06-2028,1615,53,TRUE,2,Master,Suburban,38760,2325600
+Bachelor,5,Urban,Manager,63,Female,103915.1532,elder,25-01-2097,04-06-2028,1616,53,FALSE,2,Bachelor,Rural,38784,2327040
+PhD,17,Rural,Analyst,57,Male,129845.5533,elder,26-02-2097,05-06-2028,1617,53,TRUE,2,Bachelor,Urban,38808,2328480
+Bachelor,17,Rural,Manager,63,Female,108464.3201,elder,30-03-2097,06-06-2028,1618,53,TRUE,2,Bachelor,Rural,38832,2329920
+PhD,11,Rural,Analyst,45,Male,116719.8519,senior,01-05-2097,07-06-2028,1619,53,TRUE,2,Bachelor,Rural,38856,2331360
+Master,26,Urban,Manager,43,Male,138082.3317,senior,02-06-2097,08-06-2028,1620,53,TRUE,2,Master,Rural,38880,2332800
+High School,12,Urban,Manager,62,Female,66811.31341,elder,04-07-2097,09-06-2028,1621,53,TRUE,2,High School,Urban,38904,2334240
+Master,4,Suburban,Analyst,24,Male,97173.28954,young,05-08-2097,10-06-2028,1622,53,FALSE,2,Bachelor,Urban,38928,2335680
+Bachelor,9,Urban,Engineer,27,Male,95126.80785,young,06-09-2097,11-06-2028,1623,53,FALSE,2,Master,Suburban,38952,2337120
+Bachelor,20,Suburban,Manager,49,Female,99167.88705,senior,08-10-2097,12-06-2028,1624,53,TRUE,2,PhD,Urban,38976,2338560
+Bachelor,15,Urban,Manager,21,Male,111440.017,young,09-11-2097,13-06-2028,1625,53,TRUE,2,Bachelor,Suburban,39000,2340000
+Bachelor,1,Rural,Director,43,Female,72841.11155,senior,11-12-2097,14-06-2028,1626,53,FALSE,2,PhD,Urban,39024,2341440
+Master,21,Suburban,Analyst,43,Female,118510.996,senior,12-01-2098,15-06-2028,1627,53,TRUE,2,Bachelor,Rural,39048,2342880
+High School,21,Urban,Analyst,44,Female,79002.84324,senior,13-02-2098,16-06-2028,1628,53,TRUE,2,Bachelor,Suburban,39072,2344320
+Bachelor,1,Urban,Engineer,45,Male,102106.0853,senior,17-03-2098,17-06-2028,1629,53,FALSE,2,Master,Urban,39096,2345760
+Master,3,Urban,Director,25,Female,137130.8554,young,18-04-2098,18-06-2028,1630,53,FALSE,2,High School,Urban,39120,2347200
+PhD,12,Rural,Engineer,42,Male,137069.8036,senior,20-05-2098,19-06-2028,1631,53,TRUE,2,Master,Urban,39144,2348640
+Bachelor,6,Suburban,Engineer,36,Female,89173.97096,senior,21-06-2098,20-06-2028,1632,53,FALSE,2,Master,Rural,39168,2350080
+PhD,22,Suburban,Manager,51,Male,153466.1561,elder,23-07-2098,21-06-2028,1633,53,TRUE,2,PhD,Suburban,39192,2351520
+Bachelor,25,Suburban,Manager,20,Female,98183.68685,young,24-08-2098,22-06-2028,1634,53,TRUE,2,Master,Suburban,39216,2352960
+Bachelor,3,Urban,Analyst,23,Male,74649.087,young,25-09-2098,23-06-2028,1635,53,FALSE,2,Master,Suburban,39240,2354400
+Master,8,Suburban,Director,53,Male,141267.2847,elder,27-10-2098,24-06-2028,1636,53,FALSE,2,Master,Urban,39264,2355840
+High School,13,Suburban,Analyst,51,Female,48438.35551,elder,28-11-2098,25-06-2028,1637,53,TRUE,2,High School,Suburban,39288,2357280
+Master,12,Urban,Director,26,Male,127497.1817,young,30-12-2098,26-06-2028,1638,53,TRUE,2,PhD,Suburban,39312,2358720
+Master,20,Urban,Analyst,20,Male,100807.6592,young,31-01-2099,27-06-2028,1639,53,TRUE,2,Bachelor,Urban,39336,2360160
+PhD,29,Urban,Engineer,28,Female,163509.5181,adult,04-03-2099,28-06-2028,1640,53,TRUE,2,Bachelor,Urban,39360,2361600
+Master,23,Urban,Engineer,44,Female,117342.1867,senior,05-04-2099,29-06-2028,1641,53,TRUE,2,PhD,Urban,39384,2363040
+Master,2,Rural,Engineer,26,Female,107445.3437,young,07-05-2099,30-06-2028,1642,53,FALSE,2,PhD,Urban,39408,2364480
+Master,17,Rural,Manager,31,Male,112862.3751,adult,08-06-2099,01-07-2028,1643,54,TRUE,2,Master,Rural,39432,2365920
+High School,19,Suburban,Director,24,Female,88958.6792,young,10-07-2099,02-07-2028,1644,54,TRUE,2,PhD,Rural,39456,2367360
+PhD,19,Rural,Director,57,Male,161785.2919,elder,11-08-2099,03-07-2028,1645,54,TRUE,2,Master,Suburban,39480,2368800
+Bachelor,15,Urban,Manager,27,Female,114388.3173,young,12-09-2099,04-07-2028,1646,54,TRUE,2,Master,Rural,39504,2370240
+Bachelor,22,Rural,Director,45,Female,84837.19691,senior,14-10-2099,05-07-2028,1647,54,TRUE,2,Bachelor,Urban,39528,2371680
+PhD,16,Urban,Analyst,62,Female,135511.4079,elder,15-11-2099,06-07-2028,1648,54,TRUE,2,PhD,Rural,39552,2373120
+PhD,16,Rural,Engineer,25,Female,132001.6688,young,17-12-2099,07-07-2028,1649,54,TRUE,2,Bachelor,Urban,39576,2374560
+Master,6,Urban,Manager,57,Male,118098.0693,elder,18-01-2100,08-07-2028,1650,54,FALSE,2,PhD,Rural,39600,2376000
+PhD,2,Suburban,Engineer,24,Female,110423.42,young,19-02-2100,09-07-2028,1651,54,FALSE,2,Bachelor,Urban,39624,2377440
+Master,11,Suburban,Director,62,Male,126284.0844,elder,23-03-2100,10-07-2028,1652,54,TRUE,2,Master,Suburban,39648,2378880
+Master,3,Rural,Manager,32,Female,99019.38519,adult,24-04-2100,11-07-2028,1653,54,FALSE,2,Master,Suburban,39672,2380320
+Bachelor,28,Urban,Director,36,Male,130113.2303,senior,26-05-2100,12-07-2028,1654,54,TRUE,2,Bachelor,Rural,39696,2381760
+PhD,9,Suburban,Engineer,25,Female,121976.0574,young,27-06-2100,13-07-2028,1655,54,FALSE,2,Master,Urban,39720,2383200
+Bachelor,24,Urban,Director,33,Male,117780.7184,adult,29-07-2100,14-07-2028,1656,54,TRUE,2,High School,Suburban,39744,2384640
+PhD,20,Rural,Manager,31,Female,141637.7045,adult,30-08-2100,15-07-2028,1657,54,TRUE,2,Bachelor,Urban,39768,2386080
+Bachelor,16,Urban,Director,42,Male,124024.3891,senior,01-10-2100,16-07-2028,1658,54,TRUE,2,Bachelor,Rural,39792,2387520
+Master,8,Urban,Manager,62,Male,120890.0589,elder,02-11-2100,17-07-2028,1659,54,FALSE,2,PhD,Urban,39816,2388960
+Master,13,Rural,Manager,59,Male,107463.5761,elder,04-12-2100,18-07-2028,1660,54,TRUE,2,Master,Urban,39840,2390400
+Bachelor,4,Suburban,Manager,20,Male,92362.5402,young,05-01-2101,19-07-2028,1661,54,FALSE,2,High School,Rural,39864,2391840
+Master,2,Rural,Analyst,44,Male,97697.92392,senior,06-02-2101,20-07-2028,1662,54,FALSE,2,PhD,Suburban,39888,2393280
+High School,17,Urban,Director,47,Male,112954.0417,senior,10-03-2101,21-07-2028,1663,54,TRUE,2,Bachelor,Rural,39912,2394720
+Bachelor,18,Rural,Director,50,Female,120075.5258,FALSE,11-04-2101,22-07-2028,1664,54,TRUE,2,High School,Urban,39936,2396160
+Bachelor,17,Rural,Engineer,44,Female,92373.80193,senior,13-05-2101,23-07-2028,1665,54,TRUE,2,High School,Rural,39960,2397600
+PhD,25,Urban,Manager,48,Male,144908.7597,senior,14-06-2101,24-07-2028,1666,54,TRUE,2,Master,Rural,39984,2399040
+Master,25,Rural,Manager,44,Female,111344.4727,senior,16-07-2101,25-07-2028,1667,54,TRUE,2,Bachelor,Urban,40008,2400480
+High School,27,Suburban,Engineer,50,Female,79976.18786,FALSE,17-08-2101,26-07-2028,1668,54,TRUE,2,PhD,Rural,40032,2401920
+PhD,6,Suburban,Director,52,Female,126908.1522,elder,18-09-2101,27-07-2028,1669,54,FALSE,2,High School,Suburban,40056,2403360
+Bachelor,20,Rural,Director,55,Female,102152.1527,elder,20-10-2101,28-07-2028,1670,54,TRUE,2,Bachelor,Suburban,40080,2404800
+High School,27,Urban,Director,42,Male,105298.777,senior,21-11-2101,29-07-2028,1671,54,TRUE,2,Master,Rural,40104,2406240
+High School,11,Rural,Manager,28,Female,66157.89578,adult,23-12-2101,30-07-2028,1672,54,TRUE,2,Bachelor,Urban,40128,2407680
+Master,20,Rural,Manager,23,Female,116720.8194,young,24-01-2102,31-07-2028,1673,54,TRUE,2,Master,Rural,40152,2409120
+Bachelor,18,Suburban,Engineer,56,Male,79719.95373,elder,25-02-2102,01-08-2028,1674,55,TRUE,2,Bachelor,Rural,40176,2410560
+PhD,14,Suburban,Analyst,34,Female,126314.6676,adult,29-03-2102,02-08-2028,1675,55,TRUE,2,PhD,Suburban,40200,2412000
+High School,1,Urban,Analyst,56,Male,65965.08051,elder,30-04-2102,03-08-2028,1676,55,FALSE,2,Bachelor,Suburban,40224,2413440
+Bachelor,23,Urban,Manager,37,Male,107518.6253,senior,01-06-2102,04-08-2028,1677,55,TRUE,2,PhD,Urban,40248,2414880
+Master,2,Urban,Director,39,Male,129257.5534,senior,03-07-2102,05-08-2028,1678,55,FALSE,2,Master,Urban,40272,2416320
+Bachelor,7,Rural,Director,44,Male,123627.2671,senior,04-08-2102,06-08-2028,1679,55,FALSE,2,High School,Urban,40296,2417760
+Master,10,Rural,Analyst,44,Female,94081.8897,senior,05-09-2102,07-08-2028,1680,55,FALSE,2,High School,Rural,40320,2419200
+Bachelor,6,Rural,Director,55,Male,102512.1001,elder,07-10-2102,08-08-2028,1681,55,FALSE,2,PhD,Rural,40344,2420640
+PhD,13,Rural,Analyst,21,Female,119967.7009,young,08-11-2102,09-08-2028,1682,55,TRUE,2,Bachelor,Rural,40368,2422080
+Bachelor,11,Urban,Manager,32,Female,110696.2373,adult,10-12-2102,10-08-2028,1683,55,TRUE,2,Bachelor,Rural,40392,2423520
+PhD,24,Urban,Manager,40,Female,136813.5012,senior,11-01-2103,11-08-2028,1684,55,TRUE,2,Bachelor,Urban,40416,2424960
+Master,17,Urban,Director,27,Male,126430.4323,young,12-02-2103,12-08-2028,1685,55,TRUE,2,High School,Urban,40440,2426400
+High School,28,Rural,Director,42,Female,99434.63928,senior,16-03-2103,13-08-2028,1686,55,TRUE,2,Master,Urban,40464,2427840
+High School,18,Rural,Analyst,64,Male,71869.62566,elder,17-04-2103,14-08-2028,1687,55,TRUE,2,Master,Rural,40488,2429280
+PhD,5,Urban,Director,35,Female,146305.2403,senior,19-05-2103,15-08-2028,1688,55,FALSE,2,Master,Rural,40512,2430720
+Bachelor,29,Suburban,Manager,52,Male,97354.26749,elder,20-06-2103,16-08-2028,1689,55,TRUE,2,High School,Urban,40536,2432160
+Bachelor,26,Urban,Director,53,Male,117763.8672,elder,22-07-2103,17-08-2028,1690,55,TRUE,2,Master,Suburban,40560,2433600
+Bachelor,15,Rural,Director,33,Male,97052.93882,adult,23-08-2103,18-08-2028,1691,55,TRUE,2,PhD,Urban,40584,2435040
+High School,14,Rural,Director,21,Male,87889.91945,young,24-09-2103,19-08-2028,1692,55,TRUE,2,PhD,Rural,40608,2436480
+Master,22,Urban,Manager,23,Female,124379.6104,young,26-10-2103,20-08-2028,1693,55,TRUE,2,High School,Rural,40632,2437920
+Master,18,Suburban,Director,59,Female,126191.929,elder,27-11-2103,21-08-2028,1694,55,TRUE,2,Bachelor,Urban,40656,2439360
+Master,7,Suburban,Analyst,56,Male,107847.4758,elder,29-12-2103,22-08-2028,1695,55,FALSE,2,Master,Suburban,40680,2440800
+High School,29,Rural,Engineer,58,Female,92353.16277,elder,30-01-2104,23-08-2028,1696,55,TRUE,2,Master,Suburban,40704,2442240
+Master,11,Rural,Analyst,47,Male,91867.25195,senior,02-03-2104,24-08-2028,1697,55,TRUE,2,PhD,Rural,40728,2443680
+PhD,6,Rural,Analyst,54,Female,115249.0267,elder,03-04-2104,25-08-2028,1698,55,FALSE,2,High School,Rural,40752,2445120
+PhD,5,Urban,Analyst,58,Female,101185.162,elder,05-05-2104,26-08-2028,1699,55,FALSE,2,Bachelor,Rural,40776,2446560
+High School,5,Rural,Manager,45,Male,66983.27059,senior,06-06-2104,27-08-2028,1700,55,FALSE,2,Master,Urban,40800,2448000
+Bachelor,21,Rural,Analyst,36,Female,97899.7805,senior,08-07-2104,28-08-2028,1701,55,TRUE,2,High School,Rural,40824,2449440
+Master,24,Rural,Director,29,Male,139267.8171,adult,09-08-2104,29-08-2028,1702,55,TRUE,2,High School,Rural,40848,2450880
+Master,19,Suburban,Manager,45,Male,125010.6084,senior,10-09-2104,30-08-2028,1703,55,TRUE,2,Master,Rural,40872,2452320
+PhD,19,Suburban,Engineer,20,Female,130113.5703,young,12-10-2104,31-08-2028,1704,55,TRUE,2,Bachelor,Suburban,40896,2453760
+High School,23,Rural,Analyst,35,Male,61532.07984,senior,13-11-2104,01-09-2028,1705,56,TRUE,2,Master,Suburban,40920,2455200
+Bachelor,22,Suburban,Engineer,36,Male,95209.17595,senior,15-12-2104,02-09-2028,1706,56,TRUE,2,High School,Rural,40944,2456640
+Master,11,Suburban,Director,62,Male,110485.5886,elder,16-01-2105,03-09-2028,1707,56,TRUE,2,PhD,Suburban,40968,2458080
+High School,12,Suburban,Director,56,Male,103104.5898,elder,17-02-2105,04-09-2028,1708,56,TRUE,2,PhD,Suburban,40992,2459520
+High School,28,Suburban,Analyst,27,Female,83642.1064,young,21-03-2105,05-09-2028,1709,56,TRUE,2,High School,Suburban,41016,2460960
+Master,28,Urban,Director,43,Female,146975.6297,senior,22-04-2105,06-09-2028,1710,56,TRUE,2,High School,Suburban,41040,2462400
+Bachelor,15,Suburban,Director,60,Female,103801.9523,elder,24-05-2105,07-09-2028,1711,56,TRUE,2,Bachelor,Urban,41064,2463840
+Master,20,Suburban,Director,58,Female,134296.6038,elder,25-06-2105,08-09-2028,1712,56,TRUE,2,High School,Suburban,41088,2465280
+High School,17,Suburban,Manager,57,Female,89977.94942,elder,27-07-2105,09-09-2028,1713,56,TRUE,2,Bachelor,Suburban,41112,2466720
+PhD,25,Suburban,Engineer,57,Male,150114.4789,elder,28-08-2105,10-09-2028,1714,56,TRUE,2,High School,Suburban,41136,2468160
+PhD,25,Urban,Analyst,24,Female,130963.0907,young,29-09-2105,11-09-2028,1715,56,TRUE,2,Bachelor,Suburban,41160,2469600
+High School,2,Urban,Engineer,54,Female,52264.7124,elder,31-10-2105,12-09-2028,1716,56,FALSE,2,Master,Urban,41184,2471040
+High School,9,Rural,Manager,42,Female,89782.29963,senior,02-12-2105,13-09-2028,1717,56,FALSE,2,PhD,Urban,41208,2472480
+Bachelor,8,Suburban,Director,50,Male,114365.9286,FALSE,03-01-2106,14-09-2028,1718,56,FALSE,2,Bachelor,Rural,41232,2473920
+High School,6,Suburban,Director,53,Male,88085.19941,elder,04-02-2106,15-09-2028,1719,56,FALSE,2,PhD,Suburban,41256,2475360
+Bachelor,16,Rural,Manager,47,Female,94613.53756,senior,08-03-2106,16-09-2028,1720,56,TRUE,2,Master,Suburban,41280,2476800
+High School,24,Urban,Director,27,Female,113240.2034,young,09-04-2106,17-09-2028,1721,56,TRUE,2,Bachelor,Rural,41304,2478240
+Bachelor,10,Rural,Analyst,33,Female,62267.66824,adult,11-05-2106,18-09-2028,1722,56,FALSE,2,Master,Urban,41328,2479680
+Master,21,Urban,Analyst,45,Female,131317.6842,senior,12-06-2106,19-09-2028,1723,56,TRUE,2,Bachelor,Rural,41352,2481120
+PhD,1,Rural,Engineer,57,Male,110642.2778,elder,14-07-2106,20-09-2028,1724,56,FALSE,2,PhD,Urban,41376,2482560
+Bachelor,24,Rural,Manager,51,Male,111908.615,elder,15-08-2106,21-09-2028,1725,56,TRUE,2,Master,Rural,41400,2484000
+PhD,15,Suburban,Manager,56,Female,146462.1777,elder,16-09-2106,22-09-2028,1726,56,TRUE,2,High School,Rural,41424,2485440
+Master,3,Rural,Analyst,59,Female,86684.29089,elder,18-10-2106,23-09-2028,1727,56,FALSE,2,Master,Suburban,41448,2486880
+Bachelor,20,Urban,Director,28,Female,118246.3364,adult,19-11-2106,24-09-2028,1728,56,TRUE,2,Bachelor,Rural,41472,2488320
+Master,26,Urban,Manager,38,Male,148215.8314,senior,21-12-2106,25-09-2028,1729,56,TRUE,2,PhD,Urban,41496,2489760
+Bachelor,22,Rural,Manager,40,Female,112264.974,senior,22-01-2107,26-09-2028,1730,56,TRUE,2,High School,Urban,41520,2491200
+PhD,5,Urban,Director,45,Female,127277.6888,senior,23-02-2107,27-09-2028,1731,56,FALSE,2,High School,Rural,41544,2492640
+Master,1,Rural,Manager,59,Male,84075.94263,elder,27-03-2107,28-09-2028,1732,56,FALSE,2,Master,Urban,41568,2494080
+High School,28,Suburban,Director,49,Male,93537.7938,senior,28-04-2107,29-09-2028,1733,56,TRUE,2,Master,Rural,41592,2495520
+Master,27,Suburban,Engineer,22,Female,113064.546,young,30-05-2107,30-09-2028,1734,56,TRUE,2,High School,Suburban,41616,2496960
+Bachelor,21,Suburban,Engineer,60,Female,84814.74127,elder,01-07-2107,01-10-2028,1735,57,TRUE,2,Master,Suburban,41640,2498400
+PhD,6,Suburban,Director,37,Female,143721.1064,senior,02-08-2107,02-10-2028,1736,57,FALSE,2,PhD,Suburban,41664,2499840
+High School,27,Rural,Engineer,60,Female,72362.95553,elder,03-09-2107,03-10-2028,1737,57,TRUE,2,High School,Suburban,41688,2501280
+High School,25,Urban,Director,59,Male,117061.2462,elder,05-10-2107,04-10-2028,1738,57,TRUE,2,High School,Rural,41712,2502720
+Master,18,Rural,Director,53,Male,142528.7777,elder,06-11-2107,05-10-2028,1739,57,TRUE,2,Master,Urban,41736,2504160
+Master,5,Urban,Manager,23,Female,114713.1676,young,08-12-2107,06-10-2028,1740,57,FALSE,2,Master,Rural,41760,2505600
+High School,25,Rural,Director,46,Male,111834.5795,senior,09-01-2108,07-10-2028,1741,57,TRUE,2,Bachelor,Urban,41784,2507040
+Master,1,Urban,Director,44,Female,121242.1431,senior,10-02-2108,08-10-2028,1742,57,FALSE,2,Master,Rural,41808,2508480
+PhD,18,Urban,Director,50,Female,153652.0935,FALSE,13-03-2108,09-10-2028,1743,57,TRUE,2,High School,Urban,41832,2509920
+High School,18,Rural,Director,21,Female,88647.85739,young,14-04-2108,10-10-2028,1744,57,TRUE,2,High School,Urban,41856,2511360
+High School,9,Suburban,Director,62,Male,93448.60002,elder,16-05-2108,11-10-2028,1745,57,FALSE,2,Bachelor,Rural,41880,2512800
+Master,10,Rural,Analyst,38,Male,78855.39027,senior,17-06-2108,12-10-2028,1746,57,FALSE,2,Bachelor,Suburban,41904,2514240
+Master,5,Suburban,Analyst,27,Male,92914.00678,young,19-07-2108,13-10-2028,1747,57,FALSE,2,High School,Rural,41928,2515680
+Bachelor,10,Rural,Analyst,63,Male,77974.0566,elder,20-08-2108,14-10-2028,1748,57,FALSE,2,Bachelor,Suburban,41952,2517120
+Master,13,Urban,Engineer,25,Male,116630.8467,young,21-09-2108,15-10-2028,1749,57,TRUE,2,High School,Rural,41976,2518560
+High School,17,Suburban,Manager,60,Female,78315.63657,elder,23-10-2108,16-10-2028,1750,57,TRUE,2,Master,Urban,42000,2520000
+High School,4,Urban,Engineer,57,Male,68887.85743,elder,24-11-2108,17-10-2028,1751,57,FALSE,2,High School,Suburban,42024,2521440
+Bachelor,1,Urban,Engineer,39,Female,83921.21618,senior,26-12-2108,18-10-2028,1752,57,FALSE,2,Bachelor,Urban,42048,2522880
+Bachelor,15,Urban,Analyst,54,Female,84080.91887,elder,27-01-2109,19-10-2028,1753,57,TRUE,2,Master,Urban,42072,2524320
+High School,24,Rural,Analyst,41,Male,90815.98629,senior,28-02-2109,20-10-2028,1754,57,TRUE,2,High School,Urban,42096,2525760
+Bachelor,1,Urban,Manager,56,Male,95395.50206,elder,01-04-2109,21-10-2028,1755,57,FALSE,2,High School,Rural,42120,2527200
+High School,25,Rural,Director,44,Female,91688.1665,senior,03-05-2109,22-10-2028,1756,57,TRUE,2,Bachelor,Urban,42144,2528640
+Master,29,Suburban,Engineer,50,Female,118282.8097,FALSE,04-06-2109,23-10-2028,1757,57,TRUE,2,Bachelor,Rural,42168,2530080
+High School,12,Urban,Manager,21,Female,92294.08918,young,06-07-2109,24-10-2028,1758,57,TRUE,2,PhD,Suburban,42192,2531520
+Bachelor,2,Suburban,Director,20,Female,98020.59791,young,07-08-2109,25-10-2028,1759,57,FALSE,2,High School,Urban,42216,2532960
+Master,19,Suburban,Engineer,44,Male,139481.127,senior,08-09-2109,26-10-2028,1760,57,TRUE,2,Master,Suburban,42240,2534400
+High School,15,Rural,Manager,24,Male,70640.75877,young,10-10-2109,27-10-2028,1761,57,TRUE,2,Bachelor,Suburban,42264,2535840
+High School,13,Suburban,Engineer,20,Female,55573.93062,young,11-11-2109,28-10-2028,1762,57,TRUE,2,Master,Rural,42288,2537280
+Bachelor,9,Rural,Manager,56,Female,88723.01541,elder,13-12-2109,29-10-2028,1763,57,FALSE,2,PhD,Suburban,42312,2538720
+Bachelor,6,Rural,Engineer,40,Female,77750.67459,senior,14-01-2110,30-10-2028,1764,57,FALSE,2,Bachelor,Rural,42336,2540160
+PhD,25,Suburban,Director,24,Female,138815.4937,young,15-02-2110,31-10-2028,1765,57,TRUE,2,Master,Rural,42360,2541600
+High School,3,Suburban,Engineer,25,Female,54908.31486,young,19-03-2110,01-11-2028,1766,58,FALSE,2,High School,Suburban,42384,2543040
+Master,18,Suburban,Analyst,34,Female,104315.8456,adult,20-04-2110,02-11-2028,1767,58,TRUE,2,Master,Suburban,42408,2544480
+Bachelor,16,Rural,Engineer,42,Male,82312.36464,senior,22-05-2110,03-11-2028,1768,58,TRUE,2,High School,Suburban,42432,2545920
+Master,4,Rural,Director,35,Female,107697.7425,senior,23-06-2110,04-11-2028,1769,58,FALSE,2,Master,Rural,42456,2547360
+PhD,22,Suburban,Analyst,39,Male,118568.0746,senior,25-07-2110,05-11-2028,1770,58,TRUE,2,High School,Rural,42480,2548800
+Bachelor,17,Rural,Director,32,Male,114580.3805,adult,26-08-2110,06-11-2028,1771,58,TRUE,2,High School,Suburban,42504,2550240
+Master,19,Suburban,Director,59,Female,128161.5916,elder,27-09-2110,07-11-2028,1772,58,TRUE,2,Master,Rural,42528,2551680
+High School,6,Rural,Manager,52,Male,55762.98548,elder,29-10-2110,08-11-2028,1773,58,FALSE,2,Bachelor,Suburban,42552,2553120
+Master,25,Rural,Director,50,Female,127400.6573,FALSE,30-11-2110,09-11-2028,1774,58,TRUE,2,High School,Rural,42576,2554560
+High School,23,Urban,Director,40,Male,98276.7676,senior,01-01-2111,10-11-2028,1775,58,TRUE,2,#N/A,Rural,42600,2556000
+Master,19,Urban,Director,40,Female,140086.4712,senior,02-02-2111,11-11-2028,1776,58,TRUE,2,#N/A,Urban,42624,2557440
+High School,8,Suburban,Analyst,25,Female,64683.38986,young,06-03-2111,12-11-2028,1777,58,FALSE,2,#N/A,Urban,42648,2558880
+High School,24,Urban,Engineer,30,Female,74468.20502,adult,07-04-2111,13-11-2028,1778,58,TRUE,2,#N/A,Suburban,42672,2560320
+Master,18,Rural,Analyst,44,Male,98207.02602,senior,09-05-2111,14-11-2028,1779,58,TRUE,2,#N/A,Urban,42696,2561760
+Bachelor,27,Suburban,Director,31,Female,108544.9227,adult,10-06-2111,15-11-2028,1780,58,TRUE,2,#N/A,Rural,42720,2563200
+High School,25,Urban,Director,41,Female,71077.00007,senior,12-07-2111,16-11-2028,1781,58,TRUE,2,#N/A,Suburban,42744,2564640
